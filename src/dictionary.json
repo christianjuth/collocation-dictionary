@@ -1,0 +1,2288 @@
+{
+    "nouns": {
+        "ability": {
+            "old": 1
+        },
+        "account": {
+            "blistering": 1,
+            "short": 1
+        },
+        "actions": {
+            "revolutionary": 1
+        },
+        "activism": {
+            "social": 1
+        },
+        "administration": {
+            "previous": 1
+        },
+        "advances": {
+            "technology": 1
+        },
+        "advertising": {
+            "small": 1
+        },
+        "advice": {
+            "same": 1
+        },
+        "ago": {
+            "long": 2
+        },
+        "air": {
+            "cool": 1
+        },
+        "american": {
+            "ordinary": 1,
+            "major": 1
+        },
+        "amount": {
+            "enormous": 1
+        },
+        "answer": {
+            "best": 1
+        },
+        "app": {
+            "giant": 1
+        },
+        "applause": {
+            "tepid": 1
+        },
+        "applies": {
+            "logic": 1
+        },
+        "approximate": {
+            "even": 1
+        },
+        "argument": {
+            "same": 1
+        },
+        "asks": {
+            "technology": 1
+        },
+        "associate": {
+            "clinical": 3
+        },
+        "asylum": {
+            "under": 1
+        },
+        "athletes": {
+            "elite": 1
+        },
+        "audiences": {
+            "relevant": 1
+        },
+        "august": {
+            "most": 1
+        },
+        "authority": {
+            "political": 1
+        },
+        "authorization": {
+            "full": 1
+        },
+        "balancing": {
+            "delicate": 1
+        },
+        "band": {
+            "wedding": 1
+        },
+        "bar": {
+            "high": 1
+        },
+        "barclay": {
+            "gone": 1
+        },
+        "barn": {
+            "dirty": 1
+        },
+        "bender": {
+            "raucous": 1
+        },
+        "billions": {
+            "many": 2
+        },
+        "biography": {
+            "scientific": 1
+        },
+        "bits": {
+            "boring": 1,
+            "little": 1
+        },
+        "biz": {
+            "well": 1,
+            "old": 1
+        },
+        "bloggers": {
+            "prominent": 1
+        },
+        "blooming": {
+            "late": 1
+        },
+        "bony": {
+            "long": 1
+        },
+        "book": {
+            "new": 1,
+            "upcoming": 1
+        },
+        "boy": {
+            "bad": 1
+        },
+        "branch": {
+            "medical": 1
+        },
+        "breast": {
+            "advanced": 1
+        },
+        "breeze": {
+            "cold": 1
+        },
+        "brimmed": {
+            "broad": 1
+        },
+        "broadway": {
+            "separate": 1
+        },
+        "buckboard": {
+            "old": 1
+        },
+        "buddy": {
+            "old": 2
+        },
+        "bureaucracies": {
+            "medical": 1
+        },
+        "bursts": {
+            "short": 1
+        },
+        "cabin": {
+            "nightly": 1
+        },
+        "calaboose": {
+            "local": 1
+        },
+        "camp": {
+            "outdoor": 1
+        },
+        "campaign": {
+            "presidential": 1
+        },
+        "cancer": {
+            "against": 1,
+            "illustrious": 1,
+            "specific": 2
+        },
+        "cancers": {
+            "many": 1
+        },
+        "cap": {
+            "fashioned": 1
+        },
+        "career": {
+            "entire": 1
+        },
+        "carpenter": {
+            "best": 1
+        },
+        "cases": {
+            "most": 1
+        },
+        "category": {
+            "modern": 1,
+            "same": 1
+        },
+        "cell": {
+            "empty": 1
+        },
+        "century": {
+            "half": 1
+        },
+        "chapter": {
+            "angriest": 1
+        },
+        "cheyenne": {
+            "other": 1
+        },
+        "children": {
+            "other": 1
+        },
+        "choice": {
+            "significant": 1
+        },
+        "chronicle": {
+            "extraordinary": 1
+        },
+        "churches": {
+            "black": 1
+        },
+        "circle": {
+            "virtuous": 2
+        },
+        "circumstances": {
+            "other": 1
+        },
+        "class": {
+            "separate": 1,
+            "different": 1
+        },
+        "classified": {
+            "many": 1
+        },
+        "climate": {
+            "intellectual": 1
+        },
+        "closer": {
+            "far": 1
+        },
+        "clouds": {
+            "gray": 1
+        },
+        "collaboration": {
+            "interdisciplinary": 1
+        },
+        "college": {
+            "black": 1
+        },
+        "column": {
+            "spinal": 1
+        },
+        "combination": {
+            "promising": 1
+        },
+        "combinations": {
+            "different": 1,
+            "multiple": 1
+        },
+        "comedy": {
+            "dark": 1
+        },
+        "comers": {
+            "all": 1
+        },
+        "competitive": {
+            "significant": 1
+        },
+        "compound": {
+            "newer": 1
+        },
+        "conclusion": {
+            "same": 1,
+            "dramatic": 1
+        },
+        "conditions": {
+            "social": 1
+        },
+        "conference": {
+            "recent": 1
+        },
+        "connection": {
+            "crucial": 1,
+            "personal": 1,
+            "essential": 1
+        },
+        "connections": {
+            "distant": 1
+        },
+        "connectivity": {
+            "online": 1
+        },
+        "consciousness": {
+            "false": 1
+        },
+        "contacts": {
+            "personal": 1
+        },
+        "contrast": {
+            "stark": 1
+        },
+        "conversation": {
+            "old": 2,
+            "empathic": 1,
+            "national": 1,
+            "new": 1
+        },
+        "conversations": {
+            "empathic": 1,
+            "crucial": 1
+        },
+        "country": {
+            "same": 1
+        },
+        "course": {
+            "longer": 1
+        },
+        "court": {
+            "federal": 1
+        },
+        "credibility": {
+            "signal": 1
+        },
+        "crowd": {
+            "little": 1,
+            "small": 1
+        },
+        "cube": {
+            "concrete": 1
+        },
+        "culture": {
+            "political": 1
+        },
+        "data": {
+            "private": 1
+        },
+        "days": {
+            "dashing": 1,
+            "gray": 1,
+            "most": 1
+        },
+        "death": {
+            "premature": 1
+        },
+        "debate": {
+            "national": 1
+        },
+        "decline": {
+            "inevitable": 1
+        },
+        "denouement": {
+            "farcical": 1
+        },
+        "deterioration": {
+            "nightmarish": 1
+        },
+        "determinant": {
+            "primary": 1
+        },
+        "devices": {
+            "potent": 1
+        },
+        "devita": {
+            "necessary": 1,
+            "immediate": 1
+        },
+        "dialogue": {
+            "inner": 1
+        },
+        "direction": {
+            "opposite": 2
+        },
+        "director": {
+            "clinical": 1
+        },
+        "disappointment": {
+            "great": 1
+        },
+        "disclosure": {
+            "stealthy": 1
+        },
+        "disclosures": {
+            "periodic": 1
+        },
+        "diseases": {
+            "infectious": 1
+        },
+        "disposition": {
+            "aesthetic": 1
+        },
+        "distance": {
+            "long": 2
+        },
+        "distractions": {
+            "new": 1
+        },
+        "doctors": {
+            "bad": 1,
+            "many": 1
+        },
+        "documentation": {
+            "detailed": 1
+        },
+        "doesn't": {
+            "plant": 1
+        },
+        "doing": {
+            "living": 1
+        },
+        "dormitory": {
+            "same": 1
+        },
+        "dose": {
+            "prior": 1
+        },
+        "doses": {
+            "full": 1,
+            "daily": 1,
+            "large": 1
+        },
+        "drug": {
+            "experimental": 2,
+            "single": 1,
+            "new": 1
+        },
+        "drugs": {
+            "bad": 1,
+            "new": 1,
+            "good": 1
+        },
+        "east": {
+            "back": 1
+        },
+        "echelon": {
+            "upper": 1
+        },
+        "economy": {
+            "certain": 1
+        },
+        "education": {
+            "higher": 1
+        },
+        "effect": {
+            "full": 1
+        },
+        "effects": {
+            "toxic": 1
+        },
+        "efficiency": {
+            "marvellous": 1
+        },
+        "efforts": {
+            "diplomatic": 1
+        },
+        "electric": {
+            "mild": 1
+        },
+        "ellsberg": {
+            "even": 1
+        },
+        "ellsberg's": {
+            "important": 1
+        },
+        "emerge": {
+            "alike": 1
+        },
+        "emotions": {
+            "facial": 1
+        },
+        "end": {
+            "south": 1
+        },
+        "ending": {
+            "happy": 2
+        },
+        "enforce": {
+            "over": 1
+        },
+        "engineering": {
+            "technology": 1
+        },
+        "entity": {
+            "governmental": 1
+        },
+        "episodes": {
+            "extraordinary": 1
+        },
+        "epstein": {
+            "material": 1
+        },
+        "equilibrium": {
+            "strategy": 3
+        },
+        "escalation": {
+            "desperate": 1
+        },
+        "evangelism's": {
+            "digital": 1
+        },
+        "event": {
+            "social": 1
+        },
+        "exceptions": {
+            "symbolic": 1
+        },
+        "exchange": {
+            "mechanical": 1
+        },
+        "exciting": {
+            "most": 1
+        },
+        "exercise": {
+            "mental": 1
+        },
+        "expedition": {
+            "fishing": 1
+        },
+        "eyes": {
+            "gray": 1
+        },
+        "faced": {
+            "fresh": 1
+        },
+        "fact": {
+            "crucial": 1,
+            "curious": 1
+        },
+        "facts": {
+            "curious": 1
+        },
+        "feature": {
+            "constant": 1
+        },
+        "feed": {
+            "online": 1
+        },
+        "fervor": {
+            "ideological": 1
+        },
+        "fiat": {
+            "bureaucratic": 1
+        },
+        "fiction": {
+            "historical": 1
+        },
+        "figure": {
+            "compelling": 1
+        },
+        "figures": {
+            "critical": 1
+        },
+        "flexibility": {
+            "maximum": 1
+        },
+        "flip": {
+            "single": 1
+        },
+        "flow": {
+            "steady": 1
+        },
+        "fluid": {
+            "spinal": 1
+        },
+        "focus": {
+            "special": 1
+        },
+        "foreign": {
+            "infamous": 1
+        },
+        "form": {
+            "new": 1
+        },
+        "formula": {
+            "original": 1
+        },
+        "fraction": {
+            "small": 1,
+            "underfundeda": 1
+        },
+        "freedom": {
+            "digital": 1
+        },
+        "freewheeling": {
+            "same": 1
+        },
+        "friend": {
+            "good": 1
+        },
+        "friends": {
+            "good": 1
+        },
+        "friends\"-the": {
+            "critical": 1
+        },
+        "frustration": {
+            "perennial": 1
+        },
+        "functions": {
+            "logistical": 1
+        },
+        "future": {
+            "better": 1
+        },
+        "gathering": {
+            "social": 1
+        },
+        "generation": {
+            "previous": 1
+        },
+        "genius": {
+            "athletic": 1,
+            "great": 1
+        },
+        "gift": {
+            "extraordinary": 1
+        },
+        "girl": {
+            "little": 1
+        },
+        "girls": {
+            "little": 1
+        },
+        "give": {
+            "better": 1
+        },
+        "goes": {
+            "alive": 1
+        },
+        "golnaz": {
+            "right": 1
+        },
+        "government": {
+            "democratic": 1,
+            "federal": 1,
+            "good": 1
+        },
+        "ground": {
+            "cultural": 1
+        },
+        "group": {
+            "terrorist": 1,
+            "insurgent": 1
+        },
+        "groups": {
+            "social": 1
+        },
+        "guess": {
+            "even": 1
+        },
+        "hack": {
+            "funeral": 2
+        },
+        "hacking": {
+            "murky": 1
+        },
+        "hair": {
+            "blond": 1
+        },
+        "hand": {
+            "other": 1
+        },
+        "harmony": {
+            "premium": 1
+        },
+        "hat": {
+            "big": 1
+        },
+        "have": {
+            "well": 1
+        },
+        "he": {
+            "fine": 1,
+            "foolish": 2,
+            "alive": 1,
+            "earlier": 1,
+            "back": 1,
+            "all": 2,
+            "well": 1,
+            "sure": 1,
+            "gone": 1,
+            "best": 1,
+            "sorry": 1,
+            "material": 1,
+            "persuasive": 1,
+            "even": 1
+        },
+        "hearings": {
+            "public": 1
+        },
+        "her": {
+            "over": 3,
+            "under": 1
+        },
+        "him": {
+            "over": 1
+        },
+        "his": {
+            "expected": 1,
+            "outside": 1,
+            "against": 1,
+            "under": 1,
+            "past": 1,
+            "even": 1,
+            "over": 1
+        },
+        "history": {
+            "oral": 1,
+            "institutional": 1,
+            "secret": 1
+        },
+        "hiv": {
+            "against": 1
+        },
+        "hodgkin's": {
+            "against": 1
+        },
+        "hope": {
+            "best": 2
+        },
+        "houses": {
+            "safe": 1
+        },
+        "human": {
+            "most": 1
+        },
+        "i": {
+            "all": 1,
+            "bad": 1,
+            "later": 1
+        },
+        "i'd": {
+            "expected": 1
+        },
+        "idea": {
+            "new": 1,
+            "same": 1,
+            "bad": 1
+        },
+        "ideas": {
+            "good": 2,
+            "new": 1
+        },
+        "if": {
+            "long": 1
+        },
+        "illustration": {
+            "good": 1
+        },
+        "impression": {
+            "biggest": 1
+        },
+        "incentives": {
+            "strong": 1
+        },
+        "indictment": {
+            "historic": 1
+        },
+        "innovations": {
+            "best": 1
+        },
+        "innovators": {
+            "other": 1
+        },
+        "insight": {
+            "powerful": 1,
+            "vital": 1
+        },
+        "insubordination": {
+            "racial": 1
+        },
+        "intelligence": {
+            "foreign": 2,
+            "senior": 1,
+            "national": 1
+        },
+        "intentioned": {
+            "well": 1
+        },
+        "interest": {
+            "national": 1
+        },
+        "iran": {
+            "inside": 1
+        },
+        "is": {
+            "respondent": 1
+        },
+        "issue": {
+            "old": 1
+        },
+        "it": {
+            "good": 1,
+            "beyond": 1,
+            "same": 1,
+            "compromised": 1
+        },
+        "it's": {
+            "arbitrary": 1
+        },
+        "its": {
+            "over": 1
+        },
+        "jackpot": {
+            "red": 1
+        },
+        "james": {
+            "all": 1
+        },
+        "journalists": {
+            "western": 1
+        },
+        "key": {
+            "different": 1
+        },
+        "keys": {
+            "right": 1
+        },
+        "kickball": {
+            "purple": 3
+        },
+        "knowing": {
+            "all": 1
+        },
+        "knowledge": {
+            "intimate": 1
+        },
+        "knows": {
+            "technology": 1
+        },
+        "ku": {
+            "local": 1
+        },
+        "lack": {
+            "total": 1
+        },
+        "lady": {
+            "fat": 1
+        },
+        "lasted": {
+            "trial": 1
+        },
+        "laws": {
+            "strict": 1
+        },
+        "leak": {
+            "good": 1
+        },
+        "leaking": {
+            "against": 1
+        },
+        "leaks": {
+            "unauthorized": 1
+        },
+        "less": {
+            "far": 1,
+            "personal": 1,
+            "other": 1
+        },
+        "lesson": {
+            "obvious": 1
+        },
+        "letters": {
+            "yellow": 1
+        },
+        "level": {
+            "high": 1,
+            "molecular": 1
+        },
+        "levels": {
+            "dangerous": 1
+        },
+        "liar": {
+            "black": 1
+        },
+        "liberties": {
+            "civil": 1
+        },
+        "libraries": {
+            "whole": 1
+        },
+        "life": {
+            "political": 1,
+            "real": 2
+        },
+        "lights": {
+            "red": 1
+        },
+        "like": {
+            "spontaneous": 1,
+            "plant": 1
+        },
+        "likelihood": {
+            "all": 1
+        },
+        "line": {
+            "hard": 1
+        },
+        "lock": {
+            "under": 1
+        },
+        "looking": {
+            "backwards": 1,
+            "good": 2,
+            "psychiatrist": 1
+        },
+        "lord": {
+            "good": 1
+        },
+        "lottery": {
+            "old": 1
+        },
+        "luck": {
+            "bad": 2
+        },
+        "lumpectomies": {
+            "invasive": 1
+        },
+        "makes": {
+            "technology": 1
+        },
+        "maladies": {
+            "all": 1
+        },
+        "man": {
+            "old": 6,
+            "skinned": 2,
+            "young": 1
+        },
+        "marble": {
+            "black": 1,
+            "lucky": 1
+        },
+        "mary": {
+            "old": 1
+        },
+        "mary's": {
+            "over": 1
+        },
+        "mastectomies": {
+            "radical": 2,
+            "total": 1
+        },
+        "me": {
+            "behind": 1,
+            "telling": 1
+        },
+        "mechanism": {
+            "arbitrary": 2
+        },
+        "media": {
+            "social": 6
+        },
+        "medicine": {
+            "modern": 1
+        },
+        "meeting": {
+            "annual": 1
+        },
+        "memories": {
+            "detailed": 1
+        },
+        "men": {
+            "other": 1
+        },
+        "message": {
+            "real": 1
+        },
+        "michael": {
+            "theorist": 1
+        },
+        "middle": {
+            "private": 1
+        },
+        "model": {
+            "new": 1
+        },
+        "mr": {
+            "well": 1,
+            "dead": 1
+        },
+        "nci": {
+            "old": 1
+        },
+        "need": {
+            "tremendous": 1
+        },
+        "needs": {
+            "public": 1
+        },
+        "newspapers": {
+            "major": 1
+        },
+        "night": {
+            "hard": 1
+        },
+        "nonfiction": {
+            "great": 1
+        },
+        "novel": {
+            "original": 1
+        },
+        "november": {
+            "black": 1
+        },
+        "nsa": {
+            "former": 1
+        },
+        "number": {
+            "small": 1,
+            "possible": 1
+        },
+        "offenses": {
+            "prosecutable": 1
+        },
+        "olympic": {
+            "fast": 1
+        },
+        "ones": {
+            "good": 1,
+            "earlier": 1,
+            "cheap": 1
+        },
+        "opened": {
+            "even": 1,
+            "plant": 1
+        },
+        "operations": {
+            "overseas": 1
+        },
+        "opinion": {
+            "legal": 1,
+            "public": 1
+        },
+        "option": {
+            "best": 1
+        },
+        "order": {
+            "different": 1
+        },
+        "organizing": {
+            "critical": 1
+        },
+        "our": {
+            "compromised": 1,
+            "over": 1
+        },
+        "ours": {
+            "authentic": 1
+        },
+        "page": {
+            "individual": 1
+        },
+        "parties": {
+            "all": 1
+        },
+        "passes": {
+            "short": 1
+        },
+        "patches": {
+            "bald": 1
+        },
+        "path": {
+            "different": 1
+        },
+        "patience": {
+            "little": 1
+        },
+        "patient's": {
+            "typical": 1
+        },
+        "patients": {
+            "leukemic": 1,
+            "all": 1
+        },
+        "pattern": {
+            "fundamental": 1
+        },
+        "people": {
+            "thoughtful": 1,
+            "many": 1,
+            "different": 1,
+            "young": 2,
+            "other": 5
+        },
+        "pessimism": {
+            "internal": 1
+        },
+        "phone": {
+            "silent": 1
+        },
+        "piece": {
+            "small": 1
+        },
+        "place": {
+            "different": 1
+        },
+        "plainsman": {
+            "brown": 1
+        },
+        "plastic": {
+            "purple": 1
+        },
+        "plot": {
+            "burial": 1
+        },
+        "point": {
+            "narrow": 1,
+            "whole": 1
+        },
+        "pop": {
+            "soft": 1
+        },
+        "populations": {
+            "larger": 1,
+            "smaller": 1
+        },
+        "post": {
+            "senior": 1
+        },
+        "posting": {
+            "online": 1
+        },
+        "poverty": {
+            "systemic": 1
+        },
+        "power": {
+            "extraordinary": 1
+        },
+        "practice": {
+            "medical": 1,
+            "clinical": 1
+        },
+        "practices": {
+            "best": 2
+        },
+        "presence": {
+            "mere": 1
+        },
+        "presentation": {
+            "crucial": 1
+        },
+        "president": {
+            "bad": 1,
+            "strong": 1
+        },
+        "problem": {
+            "persistent": 1,
+            "old": 1
+        },
+        "profile": {
+            "molecular": 1
+        },
+        "progress": {
+            "extraordinary": 1,
+            "clinical": 1
+        },
+        "prostate": {
+            "advanced": 2
+        },
+        "purpose": {
+            "essential": 1
+        },
+        "question": {
+            "social": 2
+        },
+        "questions": {
+            "other": 1
+        },
+        "quoting": {
+            "blissful": 1
+        },
+        "rabbit": {
+            "mechanical": 1
+        },
+        "randomness": {
+            "sufficient": 1
+        },
+        "rate": {
+            "actual": 1
+        },
+        "real": {
+            "recent": 1
+        },
+        "reason": {
+            "good": 1
+        },
+        "recall": {
+            "vivid": 1
+        },
+        "records": {
+            "patient": 1
+        },
+        "relations": {
+            "public": 1
+        },
+        "relationship": {
+            "traditional": 1
+        },
+        "relationships": {
+            "dysfunctional": 1,
+            "complex": 1
+        },
+        "remedies": {
+            "formal": 1
+        },
+        "remission": {
+            "complete": 2
+        },
+        "reprieve": {
+            "short": 1
+        },
+        "researchers": {
+            "brilliant": 1,
+            "many": 1
+        },
+        "resistance": {
+            "considerable": 1
+        },
+        "respiration": {
+            "artificial": 1
+        },
+        "responses": {
+            "empathic": 1
+        },
+        "results": {
+            "new": 1,
+            "predictable": 1
+        },
+        "reveal": {
+            "most": 1
+        },
+        "review": {
+            "institutional": 1
+        },
+        "rights": {
+            "civil": 4
+        },
+        "risk": {
+            "high": 2
+        },
+        "robert": {
+            "historian": 1,
+            "under": 1
+        },
+        "room": {
+            "same": 1
+        },
+        "roses": {
+            "fictional": 1
+        },
+        "rules": {
+            "certain": 2
+        },
+        "run": {
+            "short": 1,
+            "long": 1
+        },
+        "runners": {
+            "popular": 1
+        },
+        "sadness": {
+            "great": 1
+        },
+        "scalpels": {
+            "tools-\"molecular": 1
+        },
+        "scenery": {
+            "same": 1
+        },
+        "school": {
+            "high": 4,
+            "secondary": 1
+        },
+        "science": {
+            "political": 1
+        },
+        "scripts": {
+            "many": 1
+        },
+        "scrutiny": {
+            "public": 1
+        },
+        "seat": {
+            "back": 4
+        },
+        "secrets": {
+            "innermost": 1
+        },
+        "section": {
+            "under": 1
+        },
+        "security": {
+            "national": 5
+        },
+        "seeing": {
+            "all": 1
+        },
+        "self-binding": {
+            "governmental": 1
+        },
+        "selling": {
+            "best": 2
+        },
+        "sense": {
+            "traditional": 1
+        },
+        "settings": {
+            "social": 1,
+            "natural": 1,
+            "intimate": 1
+        },
+        "shame": {
+            "crying": 1
+        },
+        "shawl": {
+            "brown": 1
+        },
+        "she": {
+            "mean": 1,
+            "right": 1,
+            "ignorant": 1,
+            "big": 1
+        },
+        "shelf": {
+            "top": 2
+        },
+        "shirt": {
+            "white": 1
+        },
+        "shits": {
+            "still": 2
+        },
+        "side": {
+            "other": 1,
+            "wrong": 1
+        },
+        "significance": {
+            "internal": 1
+        },
+        "sir": {
+            "well": 1
+        },
+        "sixties": {
+            "early": 1
+        },
+        "skin": {
+            "brown": 1
+        },
+        "smock": {
+            "blue": 5
+        },
+        "smokes": {
+            "free": 1
+        },
+        "snow": {
+            "big": 1
+        },
+        "snowden": {
+            "against": 1
+        },
+        "society": {
+            "democratic": 1
+        },
+        "solutions": {
+            "simple": 1
+        },
+        "someone": {
+            "telling": 1
+        },
+        "something": {
+            "secret": 1
+        },
+        "something's": {
+            "well": 1
+        },
+        "sons": {
+            "other": 1
+        },
+        "sources": {
+            "foreign": 1
+        },
+        "spaces": {
+            "sacred": 2
+        },
+        "spectacles": {
+            "round": 1
+        },
+        "splash": {
+            "big": 1
+        },
+        "st": {
+            "outside": 1
+        },
+        "staff": {
+            "medical": 1
+        },
+        "stage": {
+            "specific": 1
+        },
+        "state": {
+            "same": 1,
+            "senior": 1
+        },
+        "statement": {
+            "perplexing": 1
+        },
+        "steps": {
+            "next": 1
+        },
+        "store": {
+            "entire": 1
+        },
+        "storm": {
+            "hard": 1,
+            "bigger": 1
+        },
+        "story": {
+            "short": 1,
+            "whole": 2
+        },
+        "stove": {
+            "cold": 1
+        },
+        "stricken": {
+            "panic": 1
+        },
+        "strife": {
+            "marital": 1
+        },
+        "stripes": {
+            "orange": 1
+        },
+        "student": {
+            "many": 1,
+            "other": 1,
+            "medical": 1
+        },
+        "students": {
+            "white": 1
+        },
+        "summer": {
+            "free": 1,
+            "past": 1,
+            "hot": 1
+        },
+        "surveillance": {
+            "domestic": 2
+        },
+        "survival": {
+            "identical": 1
+        },
+        "system": {
+            "democratic": 1
+        },
+        "systems": {
+            "technological": 2
+        },
+        "takes": {
+            "other": 1
+        },
+        "taking": {
+            "banker": 1
+        },
+        "tank": {
+            "green": 1
+        },
+        "tapes": {
+            "metal": 1
+        },
+        "taste": {
+            "new": 1
+        },
+        "team": {
+            "underdog": 1
+        },
+        "teen": {
+            "white": 1
+        },
+        "tennis": {
+            "former": 1
+        },
+        "term": {
+            "short": 2,
+            "long": 2
+        },
+        "terrorists": {
+            "over": 1
+        },
+        "the": {
+            "magisterial": 1
+        },
+        "their": {
+            "against": 1
+        },
+        "them": {
+            "beyond": 1,
+            "inside": 1
+        },
+        "there": {
+            "rattled": 1,
+            "right": 1,
+            "still": 1,
+            "all": 1
+        },
+        "there'll": {
+            "sure": 1
+        },
+        "they": {
+            "trial": 1,
+            "next": 1,
+            "secret": 1,
+            "together": 1,
+            "last": 1,
+            "all": 1
+        },
+        "thing": {
+            "big": 1,
+            "wonderful": 1,
+            "good": 1
+        },
+        "things": {
+            "good": 1,
+            "other": 1,
+            "tangible": 1,
+            "better": 1
+        },
+        "threat": {
+            "major": 1
+        },
+        "tie": {
+            "strong": 1
+        },
+        "ties": {
+            "weak": 3
+        },
+        "time": {
+            "little": 1,
+            "same": 2,
+            "next": 1,
+            "full": 1,
+            "hard": 1,
+            "long": 1
+        },
+        "times": {
+            "different": 1
+        },
+        "tits": {
+            "big": 1
+        },
+        "tomorrow": {
+            "back": 1
+        },
+        "tools": {
+            "new": 1
+        },
+        "toughs": {
+            "white": 1
+        },
+        "town": {
+            "little": 1
+        },
+        "trail": {
+            "digital": 1
+        },
+        "treatment": {
+            "initial": 1,
+            "experimental": 1
+        },
+        "treatments": {
+            "current": 1
+        },
+        "trials": {
+            "clinical": 1
+        },
+        "tries": {
+            "leaker": 1
+        },
+        "troops": {
+            "additional": 1
+        },
+        "trouble": {
+            "domestic": 1
+        },
+        "trusdale's": {
+            "past": 1
+        },
+        "tumor": {
+            "different": 1,
+            "typical": 1,
+            "solid": 1
+        },
+        "tumors": {
+            "solid": 1
+        },
+        "turn": {
+            "unexpected": 1
+        },
+        "twitter": {
+            "called": 1
+        },
+        "type": {
+            "certain": 1
+        },
+        "understanding": {
+            "innate": 1,
+            "common": 1
+        },
+        "unloads": {
+            "oncology": 1
+        },
+        "unpaid": {
+            "white": 1
+        },
+        "upheaval": {
+            "social": 1
+        },
+        "uptick": {
+            "recent": 1
+        },
+        "use": {
+            "good": 1,
+            "general": 1
+        },
+        "variety": {
+            "dizzying": 1
+        },
+        "vietnam": {
+            "secret": 1
+        },
+        "viewing": {
+            "against": 1
+        },
+        "vince": {
+            "well": 1
+        },
+        "violation": {
+            "strategic": 1
+        },
+        "voters": {
+            "black": 1
+        },
+        "wait": {
+            "even": 1
+        },
+        "ways": {
+            "many": 1
+        },
+        "we": {
+            "together": 1,
+            "vulnerable": 1
+        },
+        "weeping": {
+            "open": 1
+        },
+        "weight": {
+            "great": 1
+        },
+        "west": {
+            "far": 1
+        },
+        "what": {
+            "back": 1
+        },
+        "whistle": {
+            "modern": 1
+        },
+        "winter": {
+            "entire": 1
+        },
+        "wisdom": {
+            "conventional": 1
+        },
+        "woman": {
+            "black": 1,
+            "dead": 1,
+            "young": 5,
+            "fat": 6,
+            "old": 1
+        },
+        "women": {
+            "white": 1
+        },
+        "words": {
+            "other": 1
+        },
+        "workaround": {
+            "informal": 1
+        },
+        "works": {
+            "technology": 1
+        },
+        "world": {
+            "digital": 2
+        },
+        "would": {
+            "leaker": 1
+        },
+        "writer": {
+            "political": 1
+        },
+        "year": {
+            "same": 1
+        },
+        "years": {
+            "recent": 1,
+            "many": 2
+        },
+        "yemen": {
+            "against": 1
+        },
+        "you": {
+            "quiet": 1,
+            "well": 1,
+            "likely": 1
+        },
+        "you're": {
+            "well": 1
+        },
+        "your": {
+            "under": 1
+        }
+    },
+    "verbs": {
+        "8-year-olds": {
+            "way": 1
+        },
+        "accessed": {
+            "also": 1
+        },
+        "accompanies": {
+            "typically": 1
+        },
+        "added": {
+            "also": 1
+        },
+        "amount": {
+            "endless": 1
+        },
+        "announced": {
+            "abruptly": 1
+        },
+        "appear": {
+            "again": 1
+        },
+        "applied": {
+            "once": 1
+        },
+        "appointed": {
+            "newly": 1
+        },
+        "are": {
+            "rarely": 1,
+            "typically": 1
+        },
+        "asked": {
+            "secretly": 1
+        },
+        "assume": {
+            "naively": 1,
+            "immediately": 1
+        },
+        "backward": {
+            "only": 1
+        },
+        "bake": {
+            "really": 1
+        },
+        "barney": {
+            "surely": 1
+        },
+        "be": {
+            "actually": 1,
+            "rarely": 1,
+            "always": 1,
+            "only": 1
+        },
+        "been": {
+            "always": 1
+        },
+        "belong": {
+            "really": 1
+        },
+        "bring": {
+            "then": 1,
+            "quite": 1
+        },
+        "bugs": {
+            "way": 1
+        },
+        "came": {
+            "sometimes": 1,
+            "just": 1,
+            "then": 1
+        },
+        "cause": {
+            "hopeless": 1
+        },
+        "challenge": {
+            "respectfully": 1
+        },
+        "challenged": {
+            "just": 1
+        },
+        "change": {
+            "totally": 1
+        },
+        "chose": {
+            "instead": 1
+        },
+        "cleared": {
+            "just": 1
+        },
+        "close": {
+            "too": 1
+        },
+        "come": {
+            "scarcely": 1,
+            "repeatedly": 1,
+            "eventually": 1,
+            "ultimately": 1
+        },
+        "committed": {
+            "highly": 1
+        },
+        "compared": {
+            "formally": 1
+        },
+        "conflict": {
+            "sometimes": 1
+        },
+        "conversation": {
+            "toward": 1
+        },
+        "copies": {
+            "surreptitiously": 1
+        },
+        "crying": {
+            "still": 1
+        },
+        "curated": {
+            "carefully": 1
+        },
+        "cut": {
+            "also": 1
+        },
+        "dash": {
+            "just": 1
+        },
+        "defined": {
+            "once": 1
+        },
+        "described": {
+            "also": 1
+        },
+        "deserted": {
+            "almost": 1,
+            "nearly": 1
+        },
+        "did": {
+            "so": 1,
+            "ultimately": 1
+        },
+        "didn't": {
+            "still": 1,
+            "just": 1
+        },
+        "disappeared": {
+            "but": 1
+        },
+        "disappointing": {
+            "ultimately": 1
+        },
+        "dispenses": {
+            "easily": 1
+        },
+        "do": {
+            "always": 1,
+            "then": 1
+        },
+        "does": {
+            "always": 1
+        },
+        "doesn't": {
+            "often": 1
+        },
+        "enforce": {
+            "occasionally": 1
+        },
+        "enthralled": {
+            "so": 1
+        },
+        "failed": {
+            "all": 1
+        },
+        "feel": {
+            "still": 1
+        },
+        "feigning": {
+            "just": 1
+        },
+        "fell": {
+            "just": 2
+        },
+        "felt": {
+            "way": 1
+        },
+        "filling": {
+            "almost": 1
+        },
+        "flashing": {
+            "still": 1
+        },
+        "followed": {
+            "simply": 1
+        },
+        "get": {
+            "all": 1
+        },
+        "go": {
+            "then": 1
+        },
+        "going": {
+            "also": 1
+        },
+        "got": {
+            "finally": 1
+        },
+        "greyhounds": {
+            "like": 1
+        },
+        "had": {
+            "still": 1,
+            "also": 1
+        },
+        "hang": {
+            "perhaps": 1,
+            "still": 1
+        },
+        "happening": {
+            "all": 1
+        },
+        "has": {
+            "too": 1,
+            "meanwhile": 1,
+            "really": 1
+        },
+        "hates": {
+            "of": 1
+        },
+        "have": {
+            "already": 1,
+            "all": 1,
+            "really": 1,
+            "ever": 1,
+            "probably": 1
+        },
+        "having": {
+            "still": 1
+        },
+        "hear": {
+            "ever": 1,
+            "really": 1
+        },
+        "held": {
+            "closely": 2
+        },
+        "housed": {
+            "mostly": 1
+        },
+        "ideas": {
+            "more": 1
+        },
+        "identify": {
+            "correctly": 1
+        },
+        "if": {
+            "curtly": 1
+        },
+        "implemented": {
+            "properly": 1
+        },
+        "informed": {
+            "minimally": 1
+        },
+        "involved": {
+            "personally": 1
+        },
+        "is": {
+            "apart": 1,
+            "too": 1
+        },
+        "keep": {
+            "just": 1
+        },
+        "know": {
+            "only": 1,
+            "invariably": 1
+        },
+        "knows": {
+            "then": 1
+        },
+        "laid": {
+            "just": 1,
+            "probably": 1
+        },
+        "leak": {
+            "just": 1
+        },
+        "let": {
+            "completely": 1
+        },
+        "letters": {
+            "simply": 1
+        },
+        "life": {
+            "potentially": 1
+        },
+        "limping": {
+            "of": 1
+        },
+        "locked": {
+            "rarely": 1
+        },
+        "looking": {
+            "still": 1
+        },
+        "lose": {
+            "quickly": 1
+        },
+        "make": {
+            "of": 1
+        },
+        "makes": {
+            "necessarily": 1,
+            "indiscriminately": 1
+        },
+        "managing": {
+            "efficiently": 1
+        },
+        "matching": {
+            "seamlessly": 1
+        },
+        "materials": {
+            "course": 1
+        },
+        "means": {
+            "simply": 1,
+            "inevitably": 1
+        },
+        "met": {
+            "routinely": 1
+        },
+        "missed": {
+            "possibly": 1
+        },
+        "misunderstood": {
+            "fundamentally": 1
+        },
+        "momp": {
+            "so": 1
+        },
+        "mopp": {
+            "so": 1
+        },
+        "mopps": {
+            "more": 1
+        },
+        "muttering": {
+            "ominously": 1
+        },
+        "needed": {
+            "too": 1
+        },
+        "nixon's": {
+            "then": 1
+        },
+        "opened": {
+            "painlessly": 1
+        },
+        "others": {
+            "instantly": 1
+        },
+        "passed": {
+            "ultimately": 1
+        },
+        "patients": {
+            "more": 1
+        },
+        "paying": {
+            "then": 1
+        },
+        "pleased": {
+            "secretly": 1
+        },
+        "position": {
+            "often": 1
+        },
+        "present": {
+            "fully": 2
+        },
+        "promising": {
+            "incredibly": 1
+        },
+        "proved": {
+            "already": 1
+        },
+        "proves": {
+            "massively": 1
+        },
+        "pursued": {
+            "barely": 1
+        },
+        "pushed": {
+            "deliriously": 1
+        },
+        "put": {
+            "simply": 1
+        },
+        "radicalized": {
+            "more": 1
+        },
+        "ran": {
+            "then": 1
+        },
+        "reclaiming": {
+            "toward": 1
+        },
+        "recovered": {
+            "fully": 1
+        },
+        "redesign": {
+            "also": 1
+        },
+        "release": {
+            "then": 1
+        },
+        "remind": {
+            "usefully": 1
+        },
+        "requires": {
+            "sometimes": 1
+        },
+        "rolls": {
+            "just": 1
+        },
+        "rooted": {
+            "deeply": 1
+        },
+        "rules": {
+            "only": 1
+        },
+        "run": {
+            "routinely": 1,
+            "rather": 1,
+            "certainly": 1,
+            "probably": 1
+        },
+        "said": {
+            "once": 2,
+            "reportedly": 1,
+            "just": 1
+        },
+        "say": {
+            "sometimes": 1
+        },
+        "scrolled": {
+            "simply": 1
+        },
+        "see": {
+            "still": 1
+        },
+        "sense": {
+            "more": 1
+        },
+        "sensitive": {
+            "particularly": 1
+        },
+        "sent": {
+            "immediately": 1
+        },
+        "should": {
+            "still": 1
+        },
+        "sonia": {
+            "originally": 1
+        },
+        "spent": {
+            "once": 1
+        },
+        "spoke": {
+            "also": 1
+        },
+        "spreads": {
+            "steadily": 1
+        },
+        "stalemate": {
+            "hopeless": 1
+        },
+        "standardizing": {
+            "toward": 1
+        },
+        "standards": {
+            "such": 1
+        },
+        "stop": {
+            "just": 1
+        },
+        "stubborn": {
+            "so": 1
+        },
+        "stumbling": {
+            "then": 1
+        },
+        "succumbs": {
+            "finally": 1
+        },
+        "surprised": {
+            "hardly": 1
+        },
+        "surrounding": {
+            "all": 1
+        },
+        "take": {
+            "only": 1
+        },
+        "tell": {
+            "always": 1
+        },
+        "thinks": {
+            "then": 1,
+            "sometimes": 1
+        },
+        "thought": {
+            "immediately": 1
+        },
+        "took": {
+            "eventually": 1
+        },
+        "tools": {
+            "more": 1
+        },
+        "topps": {
+            "more": 1
+        },
+        "town": {
+            "toward": 1
+        },
+        "tried": {
+            "then": 1
+        },
+        "tucked": {
+            "still": 1
+        },
+        "turn": {
+            "then": 1
+        },
+        "unsettling": {
+            "deeply": 1
+        },
+        "viewed": {
+            "widely": 1
+        },
+        "want": {
+            "really": 2,
+            "often": 1
+        },
+        "was": {
+            "only": 1,
+            "more": 1
+        },
+        "waved": {
+            "frantically": 1
+        },
+        "were": {
+            "similarly": 1
+        },
+        "where": {
+            "-": 1
+        },
+        "works": {
+            "only": 1
+        },
+        "worn": {
+            "so": 1
+        },
+        "you": {
+            "bless": 1,
+            "just": 1,
+            "once": 1
+        }
+    }
+}
