@@ -1,5 +1,5 @@
 {
-    "nouns": {
+    "noun": {
         "ability": {
             "old": 1
         },
@@ -105,12 +105,12 @@
             "scientific": 1
         },
         "bits": {
-            "boring": 1,
-            "little": 1
+            "little": 1,
+            "boring": 1
         },
         "biz": {
-            "well": 1,
-            "old": 1
+            "old": 1,
+            "well": 1
         },
         "bloggers": {
             "prominent": 1
@@ -122,8 +122,8 @@
             "long": 1
         },
         "book": {
-            "new": 1,
-            "upcoming": 1
+            "upcoming": 1,
+            "new": 1
         },
         "boy": {
             "bad": 1
@@ -169,8 +169,8 @@
         },
         "cancer": {
             "against": 1,
-            "illustrious": 1,
-            "specific": 2
+            "specific": 2,
+            "illustrious": 1
         },
         "cancers": {
             "many": 1
@@ -266,8 +266,8 @@
             "newer": 1
         },
         "conclusion": {
-            "same": 1,
-            "dramatic": 1
+            "dramatic": 1,
+            "same": 1
         },
         "conditions": {
             "social": 1
@@ -276,9 +276,9 @@
             "recent": 1
         },
         "connection": {
-            "crucial": 1,
+            "essential": 1,
             "personal": 1,
-            "essential": 1
+            "crucial": 1
         },
         "connections": {
             "distant": 1
@@ -296,14 +296,14 @@
             "stark": 1
         },
         "conversation": {
+            "new": 1,
             "old": 2,
-            "empathic": 1,
             "national": 1,
-            "new": 1
+            "empathic": 1
         },
         "conversations": {
-            "empathic": 1,
-            "crucial": 1
+            "crucial": 1,
+            "empathic": 1
         },
         "country": {
             "same": 1
@@ -318,8 +318,8 @@
             "signal": 1
         },
         "crowd": {
-            "little": 1,
-            "small": 1
+            "small": 1,
+            "little": 1
         },
         "cube": {
             "concrete": 1
@@ -331,9 +331,9 @@
             "private": 1
         },
         "days": {
-            "dashing": 1,
+            "most": 1,
             "gray": 1,
-            "most": 1
+            "dashing": 1
         },
         "death": {
             "premature": 1
@@ -357,8 +357,8 @@
             "potent": 1
         },
         "devita": {
-            "necessary": 1,
-            "immediate": 1
+            "immediate": 1,
+            "necessary": 1
         },
         "dialogue": {
             "inner": 1
@@ -410,18 +410,18 @@
             "prior": 1
         },
         "doses": {
-            "full": 1,
+            "large": 1,
             "daily": 1,
-            "large": 1
+            "full": 1
         },
         "drug": {
-            "experimental": 2,
+            "new": 1,
             "single": 1,
-            "new": 1
+            "experimental": 2
         },
         "drugs": {
-            "bad": 1,
             "new": 1,
+            "bad": 1,
             "good": 1
         },
         "east": {
@@ -518,8 +518,8 @@
             "fresh": 1
         },
         "fact": {
-            "crucial": 1,
-            "curious": 1
+            "curious": 1,
+            "crucial": 1
         },
         "facts": {
             "curious": 1
@@ -585,9 +585,6 @@
         "friends": {
             "good": 1
         },
-        "friends\"-the": {
-            "critical": 1
-        },
         "frustration": {
             "perennial": 1
         },
@@ -604,8 +601,8 @@
             "previous": 1
         },
         "genius": {
-            "athletic": 1,
-            "great": 1
+            "great": 1,
+            "athletic": 1
         },
         "gift": {
             "extraordinary": 1
@@ -626,16 +623,16 @@
             "right": 1
         },
         "government": {
-            "democratic": 1,
             "federal": 1,
+            "democratic": 1,
             "good": 1
         },
         "ground": {
             "cultural": 1
         },
         "group": {
-            "terrorist": 1,
-            "insurgent": 1
+            "insurgent": 1,
+            "terrorist": 1
         },
         "groups": {
             "social": 1
@@ -666,19 +663,19 @@
         },
         "he": {
             "fine": 1,
-            "foolish": 2,
-            "alive": 1,
-            "earlier": 1,
-            "back": 1,
             "all": 2,
-            "well": 1,
-            "sure": 1,
+            "foolish": 2,
+            "material": 1,
             "gone": 1,
             "best": 1,
-            "sorry": 1,
-            "material": 1,
+            "well": 1,
+            "alive": 1,
+            "back": 1,
+            "earlier": 1,
             "persuasive": 1,
-            "even": 1
+            "even": 1,
+            "sorry": 1,
+            "sure": 1
         },
         "hearings": {
             "public": 1
@@ -692,12 +689,12 @@
         },
         "his": {
             "expected": 1,
-            "outside": 1,
             "against": 1,
-            "under": 1,
             "past": 1,
+            "outside": 1,
+            "over": 1,
             "even": 1,
-            "over": 1
+            "under": 1
         },
         "history": {
             "oral": 1,
@@ -728,8 +725,8 @@
             "expected": 1
         },
         "idea": {
-            "new": 1,
             "same": 1,
+            "new": 1,
             "bad": 1
         },
         "ideas": {
@@ -758,16 +755,16 @@
             "other": 1
         },
         "insight": {
-            "powerful": 1,
-            "vital": 1
+            "vital": 1,
+            "powerful": 1
         },
         "insubordination": {
             "racial": 1
         },
         "intelligence": {
             "foreign": 2,
-            "senior": 1,
-            "national": 1
+            "national": 1,
+            "senior": 1
         },
         "intentioned": {
             "well": 1
@@ -785,10 +782,10 @@
             "old": 1
         },
         "it": {
-            "good": 1,
-            "beyond": 1,
             "same": 1,
-            "compromised": 1
+            "compromised": 1,
+            "beyond": 1,
+            "good": 1
         },
         "it's": {
             "arbitrary": 1
@@ -848,8 +845,8 @@
             "unauthorized": 1
         },
         "less": {
-            "far": 1,
             "personal": 1,
+            "far": 1,
             "other": 1
         },
         "lesson": {
@@ -859,8 +856,8 @@
             "yellow": 1
         },
         "level": {
-            "high": 1,
-            "molecular": 1
+            "molecular": 1,
+            "high": 1
         },
         "levels": {
             "dangerous": 1
@@ -875,8 +872,8 @@
             "whole": 1
         },
         "life": {
-            "political": 1,
-            "real": 2
+            "real": 2,
+            "political": 1
         },
         "lights": {
             "red": 1
@@ -895,8 +892,8 @@
             "under": 1
         },
         "looking": {
-            "backwards": 1,
             "good": 2,
+            "backwards": 1,
             "psychiatrist": 1
         },
         "lord": {
@@ -918,13 +915,13 @@
             "all": 1
         },
         "man": {
+            "young": 1,
             "old": 6,
-            "skinned": 2,
-            "young": 1
+            "skinned": 2
         },
         "marble": {
-            "black": 1,
-            "lucky": 1
+            "lucky": 1,
+            "black": 1
         },
         "mary": {
             "old": 1
@@ -937,8 +934,8 @@
             "total": 1
         },
         "me": {
-            "behind": 1,
-            "telling": 1
+            "telling": 1,
+            "behind": 1
         },
         "mechanism": {
             "arbitrary": 2
@@ -1002,8 +999,8 @@
             "former": 1
         },
         "number": {
-            "small": 1,
-            "possible": 1
+            "possible": 1,
+            "small": 1
         },
         "offenses": {
             "prosecutable": 1
@@ -1012,9 +1009,9 @@
             "fast": 1
         },
         "ones": {
+            "cheap": 1,
             "good": 1,
-            "earlier": 1,
-            "cheap": 1
+            "earlier": 1
         },
         "opened": {
             "even": 1,
@@ -1024,8 +1021,8 @@
             "overseas": 1
         },
         "opinion": {
-            "legal": 1,
-            "public": 1
+            "public": 1,
+            "legal": 1
         },
         "option": {
             "best": 1
@@ -1037,8 +1034,8 @@
             "critical": 1
         },
         "our": {
-            "compromised": 1,
-            "over": 1
+            "over": 1,
+            "compromised": 1
         },
         "ours": {
             "authentic": 1
@@ -1065,18 +1062,18 @@
             "typical": 1
         },
         "patients": {
-            "leukemic": 1,
-            "all": 1
+            "all": 1,
+            "leukemic": 1
         },
         "pattern": {
             "fundamental": 1
         },
         "people": {
-            "thoughtful": 1,
-            "many": 1,
-            "different": 1,
             "young": 2,
-            "other": 5
+            "different": 1,
+            "thoughtful": 1,
+            "other": 5,
+            "many": 1
         },
         "pessimism": {
             "internal": 1
@@ -1107,8 +1104,8 @@
             "soft": 1
         },
         "populations": {
-            "larger": 1,
-            "smaller": 1
+            "smaller": 1,
+            "larger": 1
         },
         "post": {
             "senior": 1
@@ -1136,19 +1133,19 @@
             "crucial": 1
         },
         "president": {
-            "bad": 1,
-            "strong": 1
+            "strong": 1,
+            "bad": 1
         },
         "problem": {
-            "persistent": 1,
-            "old": 1
+            "old": 1,
+            "persistent": 1
         },
         "profile": {
             "molecular": 1
         },
         "progress": {
-            "extraordinary": 1,
-            "clinical": 1
+            "clinical": 1,
+            "extraordinary": 1
         },
         "prostate": {
             "advanced": 2
@@ -1206,8 +1203,8 @@
             "short": 1
         },
         "researchers": {
-            "brilliant": 1,
-            "many": 1
+            "many": 1,
+            "brilliant": 1
         },
         "resistance": {
             "considerable": 1
@@ -1235,8 +1232,8 @@
             "high": 2
         },
         "robert": {
-            "historian": 1,
-            "under": 1
+            "under": 1,
+            "historian": 1
         },
         "room": {
             "same": 1
@@ -1256,9 +1253,6 @@
         },
         "sadness": {
             "great": 1
-        },
-        "scalpels": {
-            "tools-\"molecular": 1
         },
         "scenery": {
             "same": 1
@@ -1291,9 +1285,6 @@
         "seeing": {
             "all": 1
         },
-        "self-binding": {
-            "governmental": 1
-        },
         "selling": {
             "best": 2
         },
@@ -1314,8 +1305,8 @@
         "she": {
             "mean": 1,
             "right": 1,
-            "ignorant": 1,
-            "big": 1
+            "big": 1,
+            "ignorant": 1
         },
         "shelf": {
             "top": 2
@@ -1394,8 +1385,8 @@
             "specific": 1
         },
         "state": {
-            "same": 1,
-            "senior": 1
+            "senior": 1,
+            "same": 1
         },
         "statement": {
             "perplexing": 1
@@ -1407,12 +1398,12 @@
             "entire": 1
         },
         "storm": {
-            "hard": 1,
-            "bigger": 1
+            "bigger": 1,
+            "hard": 1
         },
         "story": {
-            "short": 1,
-            "whole": 2
+            "whole": 2,
+            "short": 1
         },
         "stove": {
             "cold": 1
@@ -1427,17 +1418,17 @@
             "orange": 1
         },
         "student": {
+            "medical": 1,
             "many": 1,
-            "other": 1,
-            "medical": 1
+            "other": 1
         },
         "students": {
             "white": 1
         },
         "summer": {
-            "free": 1,
+            "hot": 1,
             "past": 1,
-            "hot": 1
+            "free": 1
         },
         "surveillance": {
             "domestic": 2
@@ -1489,13 +1480,13 @@
             "against": 1
         },
         "them": {
-            "beyond": 1,
-            "inside": 1
+            "inside": 1,
+            "beyond": 1
         },
         "there": {
+            "still": 1,
             "rattled": 1,
             "right": 1,
-            "still": 1,
             "all": 1
         },
         "there'll": {
@@ -1503,16 +1494,16 @@
         },
         "they": {
             "trial": 1,
-            "next": 1,
             "secret": 1,
-            "together": 1,
             "last": 1,
-            "all": 1
+            "together": 1,
+            "all": 1,
+            "next": 1
         },
         "thing": {
-            "big": 1,
+            "good": 1,
             "wonderful": 1,
-            "good": 1
+            "big": 1
         },
         "things": {
             "good": 1,
@@ -1530,12 +1521,12 @@
             "weak": 3
         },
         "time": {
-            "little": 1,
             "same": 2,
             "next": 1,
+            "long": 1,
+            "little": 1,
             "full": 1,
-            "hard": 1,
-            "long": 1
+            "hard": 1
         },
         "times": {
             "different": 1
@@ -1581,9 +1572,9 @@
             "past": 1
         },
         "tumor": {
-            "different": 1,
             "typical": 1,
-            "solid": 1
+            "solid": 1,
+            "different": 1
         },
         "tumors": {
             "solid": 1
@@ -1598,8 +1589,8 @@
             "certain": 1
         },
         "understanding": {
-            "innate": 1,
-            "common": 1
+            "common": 1,
+            "innate": 1
         },
         "unloads": {
             "oncology": 1
@@ -1614,8 +1605,8 @@
             "recent": 1
         },
         "use": {
-            "good": 1,
-            "general": 1
+            "general": 1,
+            "good": 1
         },
         "variety": {
             "dizzying": 1
@@ -1642,8 +1633,8 @@
             "many": 1
         },
         "we": {
-            "together": 1,
-            "vulnerable": 1
+            "vulnerable": 1,
+            "together": 1
         },
         "weeping": {
             "open": 1
@@ -1667,10 +1658,10 @@
             "conventional": 1
         },
         "woman": {
-            "black": 1,
             "dead": 1,
-            "young": 5,
             "fat": 6,
+            "young": 5,
+            "black": 1,
             "old": 1
         },
         "women": {
@@ -1698,8 +1689,8 @@
             "same": 1
         },
         "years": {
-            "recent": 1,
-            "many": 2
+            "many": 2,
+            "recent": 1
         },
         "yemen": {
             "against": 1
@@ -1716,10 +1707,7 @@
             "under": 1
         }
     },
-    "verbs": {
-        "8-year-olds": {
-            "way": 1
-        },
+    "verb": {
         "accessed": {
             "also": 1
         },
@@ -1745,15 +1733,15 @@
             "newly": 1
         },
         "are": {
-            "rarely": 1,
-            "typically": 1
+            "typically": 1,
+            "rarely": 1
         },
         "asked": {
             "secretly": 1
         },
         "assume": {
-            "naively": 1,
-            "immediately": 1
+            "immediately": 1,
+            "naively": 1
         },
         "backward": {
             "only": 1
@@ -1765,10 +1753,10 @@
             "surely": 1
         },
         "be": {
-            "actually": 1,
-            "rarely": 1,
             "always": 1,
-            "only": 1
+            "only": 1,
+            "rarely": 1,
+            "actually": 1
         },
         "been": {
             "always": 1
@@ -1777,16 +1765,16 @@
             "really": 1
         },
         "bring": {
-            "then": 1,
-            "quite": 1
+            "quite": 1,
+            "then": 1
         },
         "bugs": {
             "way": 1
         },
         "came": {
-            "sometimes": 1,
             "just": 1,
-            "then": 1
+            "then": 1,
+            "sometimes": 1
         },
         "cause": {
             "hopeless": 1
@@ -1810,10 +1798,10 @@
             "too": 1
         },
         "come": {
+            "ultimately": 1,
             "scarcely": 1,
             "repeatedly": 1,
-            "eventually": 1,
-            "ultimately": 1
+            "eventually": 1
         },
         "committed": {
             "highly": 1
@@ -1849,16 +1837,16 @@
             "also": 1
         },
         "deserted": {
-            "almost": 1,
-            "nearly": 1
+            "nearly": 1,
+            "almost": 1
         },
         "did": {
-            "so": 1,
-            "ultimately": 1
+            "ultimately": 1,
+            "so": 1
         },
         "didn't": {
-            "still": 1,
-            "just": 1
+            "just": 1,
+            "still": 1
         },
         "disappeared": {
             "but": 1
@@ -1925,12 +1913,12 @@
             "like": 1
         },
         "had": {
-            "still": 1,
-            "also": 1
+            "also": 1,
+            "still": 1
         },
         "hang": {
-            "perhaps": 1,
-            "still": 1
+            "still": 1,
+            "perhaps": 1
         },
         "happening": {
             "all": 1
@@ -1944,18 +1932,18 @@
             "of": 1
         },
         "have": {
-            "already": 1,
             "all": 1,
-            "really": 1,
+            "probably": 1,
             "ever": 1,
-            "probably": 1
+            "already": 1,
+            "really": 1
         },
         "having": {
             "still": 1
         },
         "hear": {
-            "ever": 1,
-            "really": 1
+            "really": 1,
+            "ever": 1
         },
         "held": {
             "closely": 2
@@ -1982,22 +1970,22 @@
             "personally": 1
         },
         "is": {
-            "apart": 1,
-            "too": 1
+            "too": 1,
+            "apart": 1
         },
         "keep": {
             "just": 1
         },
         "know": {
-            "only": 1,
-            "invariably": 1
+            "invariably": 1,
+            "only": 1
         },
         "knows": {
             "then": 1
         },
         "laid": {
-            "just": 1,
-            "probably": 1
+            "probably": 1,
+            "just": 1
         },
         "leak": {
             "just": 1
@@ -2146,15 +2134,15 @@
             "only": 1
         },
         "run": {
-            "routinely": 1,
+            "probably": 1,
             "rather": 1,
             "certainly": 1,
-            "probably": 1
+            "routinely": 1
         },
         "said": {
             "once": 2,
-            "reportedly": 1,
-            "just": 1
+            "just": 1,
+            "reportedly": 1
         },
         "say": {
             "sometimes": 1
@@ -2223,8 +2211,8 @@
             "always": 1
         },
         "thinks": {
-            "then": 1,
-            "sometimes": 1
+            "sometimes": 1,
+            "then": 1
         },
         "thought": {
             "immediately": 1
@@ -2257,8 +2245,8 @@
             "widely": 1
         },
         "want": {
-            "really": 2,
-            "often": 1
+            "often": 1,
+            "really": 2
         },
         "was": {
             "only": 1,
@@ -2270,9 +2258,6 @@
         "were": {
             "similarly": 1
         },
-        "where": {
-            "-": 1
-        },
         "works": {
             "only": 1
         },
@@ -2280,8 +2265,8 @@
             "so": 1
         },
         "you": {
-            "bless": 1,
             "just": 1,
+            "bless": 1,
             "once": 1
         }
     }

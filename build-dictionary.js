@@ -21,7 +21,7 @@ fs.readdir('./texts', function(err, files) {
     	descriptorCount = 0;
 
     let extract = (matchString, type) => {
-    	let matches = doc.match(matchString).out('array');
+    	let matches = doc.match(matchString).out('array').filter(str => str.indexOf('-') == -1);
 
     	if(dictionary[type] == null) dictionary[type] = {};
 	
@@ -61,8 +61,8 @@ fs.readdir('./texts', function(err, files) {
     }
 
 
-    extract('#Adjective #Noun', 'nouns');
-    extract('#Adverb #Verb', 'verbs');
+    extract('#Adjective #Noun', 'noun');
+    extract('#Adverb #Verb', 'verb');
 
     console.log(`${descriptorCount} descriptors\n`);
 	fs.writeFileSync('src/dictionary.json', JSON.stringify(dictionary, null, 4));

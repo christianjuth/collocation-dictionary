@@ -23,7 +23,7 @@ background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, F
 
 .Input{
   height: 50px;
-  width: 50%;
+  width: 35%;
   text-align: center;
   font-size: 24px;
   border: 0;
@@ -34,9 +34,18 @@ background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, F
 
 .Card{
   margin-bottom: 10px;
-  width: 50%;
+  width: 35%;
   background-color: #fff;
   border-radius: 10px;
+}
+
+.Word{
+  margin-bottom: 2px; 
+}
+
+.WordType{
+  font-style: italic;
+  color: #888;
 }
 
 @keyframes App-logo-spin {
