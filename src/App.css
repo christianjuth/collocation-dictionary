@@ -15,20 +15,18 @@
   color: white;
 
   background: #000000;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
+  background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .Input{
-  height: 50px;
+  height: 45px;
   width: 35%;
   text-align: center;
-  font-size: 24px;
+  font-size: 22px;
   border: 0;
   box-shadow: none;
-  border-radius: 10px;
+  border-radius: 5px;
   outline: none;
 }
 
@@ -36,7 +34,7 @@ background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, F
   margin-bottom: 10px;
   width: 35%;
   background-color: #fff;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .Word{
