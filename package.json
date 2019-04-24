@@ -8,13 +8,17 @@
     "react-dom": "^16.8.6",
     "react-scripts": "0.9.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "build-dictionary": "node ./build-dictionary.js"
+    "build-dictionary": "node ./build-dictionary.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "homepage": "http://christianjuth.github.io/collocation-dictionary"
 }
