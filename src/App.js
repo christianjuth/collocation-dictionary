@@ -54,11 +54,10 @@ class App extends Component {
   }
 
   updateSearch(e) {
-    let search = e.target.value;
+    let search = e.target.value.toLowerCase();
 
     let urlSplit = window.location.href.split( "?" ), 
         obj = { 
-          Title : "New title", 
           Url: urlSplit[0] + (search.length > 0 ? `?search=${e.target.value}` : '')
         };
 

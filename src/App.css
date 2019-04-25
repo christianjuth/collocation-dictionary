@@ -15,10 +15,10 @@
   margin-bottom: 10px;
   color: white;
 
-  background: -webkit-linear-gradient(to right, #6f9bec, #26bdea);
-  background: linear-gradient(to right, #6f9bec, #26bdea);
+  background: -webkit-linear-gradient(to top right, #000000 45%, #222);
+  background: linear-gradient(to top right, #000000 45%, #222);
 
-  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 9px rgba(0,0,0,0.15);
 
   position: fixed;
   top: 0;
@@ -52,7 +52,7 @@
   background-color: #fff;
   border-radius: 5px;
   padding: 10px 0;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.01), 0 1px 4px rgba(0,0,0,0.1);
 }
 
 .Word{
