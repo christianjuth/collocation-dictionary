@@ -24,7 +24,7 @@ class App extends Component {
             <div key={type+word} className="Card">
               <h2 className="Word">{word}</h2>
               <span className="WordType">{type}</span>
-              <p>{type === 'noun' ? 'adj.' : 'adv.'} {adjs.join(', ')}</p>
+              <p>{type === 'verb' ? 'adv.' : 'adj.'} {adjs.join(', ')}</p>
             </div>
           )
         });
@@ -39,8 +39,18 @@ class App extends Component {
 
     this.state = {
       search: window.location.href.split("?search=")[1] || '',
-      dictionary: squashedDictionary
+      dictionary: squashedDictionary,
+      headerStuck: window.pageYOffset > 110,
+      scroll: window.pageYOffset
     }
+
+    window.onscroll = () => {
+      if(window.pageYOffset <= 110)
+        this.setState({headerStuck: false, scroll: window.pageYOffset});
+
+      else if(window.pageYOffset > 110 && !this.state.headerStuck)
+        this.setState({headerStuck: true});
+    };
   }
 
   updateSearch(e) {
@@ -66,13 +76,14 @@ class App extends Component {
 
     let results = this.state.dictionary
     .filter(obj => obj.word.indexOf(this.state.search) >= 0)
-    .map(obj => obj.div);
+    .map(obj => obj.div)
+    .slice(0,50);
 
     return (
       <div className="App">
-        <div className="App-header">
+        <div className={this.state.headerStuck ? "App-header App-header-sticky" : "App-header"} style={{height: this.state.headerStuck ? 'auto' : 200-this.state.scroll}}>
           <h1>Collocation Dictionary</h1>
-          <input className="Input" value={this.state.search} placeholder="type a word to search..." onChange={e => this.updateSearch(e)}/>
+          <input className={this.state.headerStuck ? "hidden" : "Input"} value={this.state.search} placeholder="type a word to search..." onChange={e => this.updateSearch(e)}/>
         </div>
 
         {results}

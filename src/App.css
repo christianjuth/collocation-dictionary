@@ -3,31 +3,47 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #eee;
+  background-color: #F0EFF5;
   min-height: 100vh;
+  padding-top: 215px;
 }
 
 .App-header {
   width: 100%;
-  height: 150px;
+  height: 200px;
   padding: 30px 0;
   margin-bottom: 10px;
   color: white;
 
-  background: #000000;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #6f9bec, #26bdea);
+  background: linear-gradient(to right, #6f9bec, #26bdea);
+
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+}
+
+.App-header-sticky {
+  height: auto;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  font-size: 12px;
 }
 
 .Input{
   height: 45px;
   width: 35%;
   text-align: center;
-  font-size: 22px;
+  font-size: 21px;
   border: 0;
   box-shadow: none;
   border-radius: 5px;
   outline: none;
+  font-weight: 300;
 }
 
 .Card{
@@ -35,15 +51,22 @@
   width: 35%;
   background-color: #fff;
   border-radius: 5px;
+  padding: 10px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.1);
 }
 
 .Word{
-  margin-bottom: 2px; 
+  margin: 10px 0 7px 0;
 }
 
 .WordType{
   font-style: italic;
-  color: #888;
+  color: #8a8a8a;
+  font-weight: 200;
+}
+
+.hidden{
+  display: none;
 }
 
 @keyframes App-logo-spin {

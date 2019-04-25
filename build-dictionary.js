@@ -57,11 +57,12 @@ fs.readdir('./texts', function(err, files) {
 			dictionary[type][word] = raking;
 		});
 
-		console.log(`${Object.keys(dictionary[type]).length} ${type}`);
+		console.log(`${Object.keys(dictionary[type]).length} ${type}s`);
     }
 
 
     extract('#Adjective #Noun', 'noun');
+    // extract('#Adjective #Adjective', 'adjective');
     extract('#Adverb #Verb', 'verb');
 
     console.log(`${descriptorCount} descriptors\n`);
