@@ -48,8 +48,8 @@ class App extends Component {
       if(window.pageYOffset <= 110)
         this.setState({headerStuck: false, scroll: window.pageYOffset});
 
-      else if(window.pageYOffset > 110 && !this.state.headerStuck)
-        this.setState({headerStuck: true});
+      else if(window.pageYOffset > 110)
+        this.setState({headerStuck: true, scroll: window.pageYOffset});
     };
   }
 
@@ -82,8 +82,8 @@ class App extends Component {
 
     return (
       <div className="App">
-        <div className={this.state.headerStuck ? "App-header App-header-sticky" : "App-header"} style={{height: this.state.headerStuck ? 'auto' : 200-this.state.scroll}}>
-          <h1>Collocation Dictionary</h1>
+        <div style={{height: this.state.headerStuck ? '87px' : 200-this.state.scroll}} className={this.state.headerStuck ? "App-header App-header-sticky" : "App-header"}>
+          <h1 style={{'margin-top': this.state.headerStuck ? Math.max(150-this.state.scroll,16) : 20}}>Collocation Dictionary</h1>
           <input className={this.state.headerStuck ? "hidden" : "Input"} value={this.state.search} placeholder="type a word to search..." onChange={e => this.updateSearch(e)}/>
         </div>
 
