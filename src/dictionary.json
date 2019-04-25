@@ -3,21 +3,62 @@
         "ability": {
             "old": 1
         },
+        "abduction": {
+            "cosmic": 1
+        },
+        "acceptance": {
+            "public": 1
+        },
+        "accident": {
+            "close": 1
+        },
+        "accommodation": {
+            "tourist": 1,
+            "other": 1,
+            "free": 1
+        },
         "account": {
             "blistering": 1,
             "short": 1
         },
-        "actions": {
+        "ache": {
+            "persistent": 1
+        },
+        "acquiescence": {
+            "daily": 1
+        },
+        "act": {
+            "violent": 1,
+            "individual": 2
+        },
+        "action": {
             "revolutionary": 1
         },
         "activism": {
             "social": 1
         },
+        "activist": {
+            "other": 1
+        },
+        "activity": {
+            "solar": 1,
+            "political": 1
+        },
+        "actress": {
+            "sweet": 1
+        },
+        "ad": {
+            "detergent": 1
+        },
+        "addition": {
+            "recent": 1
+        },
         "administration": {
             "previous": 1
         },
-        "advances": {
-            "technology": 1
+        "advance": {
+            "technology": 1,
+            "fundamental": 1
         },
         "advertising": {
             "small": 1
@@ -25,39 +66,131 @@
         "advice": {
             "same": 1
         },
+        "aftermath": {
+            "immediate": 1
+        },
+        "afterward": {
+            "soon": 1
+        },
+        "agency": {
+            "rental": 1
+        },
+        "agent": {
+            "special": 1,
+            "foreign": 1
+        },
         "ago": {
-            "long": 2
+            "long": 3
+        },
+        "aim": {
+            "personal": 1
         },
         "air": {
+            "fresh": 1,
             "cool": 1
+        },
+        "airbnb": {
+            "illegal": 1
+        },
+        "alarm": {
+            "serious": 1
+        },
+        "alice": {
+            "telling": 1
+        },
+        "alternative": {
+            "ethical": 1
         },
         "american": {
             "ordinary": 1,
-            "major": 1
+            "major": 1,
+            "elite": 1
         },
         "amount": {
             "enormous": 1
         },
+        "anecdote": {
+            "telling": 1
+        },
+        "aneurysm": {
+            "smaller": 1
+        },
+        "anger": {
+            "righteous": 1
+        },
+        "animal": {
+            "wild": 1
+        },
+        "announcement": {
+            "important": 1
+        },
         "answer": {
+            "good": 1,
             "best": 1
         },
+        "anti": {
+            "notorious": 1
+        },
+        "anxiety": {
+            "terrible": 1
+        },
+        "apartment": {
+            "tourist": 1,
+            "individual": 1,
+            "single": 1,
+            "rental": 3,
+            "old": 1,
+            "entire": 1
+        },
         "app": {
+            "malicious": 1,
             "giant": 1
         },
         "applause": {
             "tepid": 1
         },
-        "applies": {
+        "apply": {
             "logic": 1
+        },
+        "appropriation": {
+            "capitalist": 1
+        },
+        "approval": {
+            "social": 1
         },
         "approximate": {
             "even": 1
         },
+        "arch": {
+            "deep": 1
+        },
+        "are": {
+            "poor": 1
+        },
+        "area": {
+            "elliptical": 1,
+            "other": 1,
+            "popular": 1
+        },
         "argument": {
+            "crucial": 1,
             "same": 1
         },
-        "asks": {
+        "art": {
+            "contemporary": 1,
+            "visual": 1
+        },
+        "artery": {
+            "femoral": 2
+        },
+        "artist": {
+            "multidisciplinary": 1
+        },
+        "ask": {
             "technology": 1
+        },
+        "assault": {
+            "scouring": 1
         },
         "associate": {
             "clinical": 3
@@ -65,11 +198,26 @@
         "asylum": {
             "under": 1
         },
-        "athletes": {
+        "athlete": {
             "elite": 1
         },
-        "audiences": {
+        "attack": {
+            "panic": 1
+        },
+        "attempting": {
+            "over": 1
+        },
+        "attention": {
+            "political": 1
+        },
+        "attraction": {
+            "tourist": 1
+        },
+        "audience": {
             "relevant": 1
+        },
+        "auditorium": {
+            "dark": 1
         },
         "august": {
             "most": 1
@@ -80,43 +228,117 @@
         "authorization": {
             "full": 1
         },
+        "backlash": {
+            "legal": 1,
+            "inevitable": 1
+        },
+        "balance": {
+            "proper": 1
+        },
         "balancing": {
             "delicate": 1
         },
+        "balcony": {
+            "graceful": 1
+        },
+        "ballerina": {
+            "famous": 1
+        },
+        "ballot": {
+            "automatic": 1
+        },
         "band": {
+            "legendary": 1,
+            "elastic": 1,
             "wedding": 1
         },
         "bar": {
-            "high": 1
+            "high": 1,
+            "greenish": 1,
+            "green": 1,
+            "oblique": 1,
+            "best": 1
         },
         "barclay": {
             "gone": 1
         },
         "barn": {
+            "old": 1,
             "dirty": 1
+        },
+        "bathroom": {
+            "called": 1
+        },
+        "be": {
+            "soon": 1,
+            "well": 1
+        },
+        "beach": {
+            "pretty": 1
+        },
+        "bedroom": {
+            "spare": 1
+        },
+        "being": {
+            "stranger": 1
         },
         "bender": {
             "raucous": 1
         },
-        "billions": {
+        "berry": {
+            "hot": 1
+        },
+        "beyonce": {
+            "free": 1
+        },
+        "big": {
+            "entire": 1
+        },
+        "bigi": {
+            "new": 1
+        },
+        "billion": {
             "many": 2
         },
         "biography": {
             "scientific": 1
         },
-        "bits": {
+        "birch": {
+            "high": 1,
+            "scrubby": 1
+        },
+        "bit": {
             "little": 1,
             "boring": 1
         },
         "biz": {
-            "old": 1,
-            "well": 1
+            "well": 1,
+            "old": 1
         },
-        "bloggers": {
+        "blankness": {
+            "pleasant": 1
+        },
+        "blazer": {
+            "blue": 1
+        },
+        "bleed": {
+            "massive": 1,
+            "fatal": 1
+        },
+        "blogger": {
             "prominent": 1
+        },
+        "blood": {
+            "low": 1
         },
         "blooming": {
             "late": 1
+        },
+        "blur": {
+            "green": 1
+        },
+        "boat": {
+            "pink": 1
         },
         "bony": {
             "long": 1
@@ -125,11 +347,30 @@
             "upcoming": 1,
             "new": 1
         },
+        "boom": {
+            "touristic": 1
+        },
+        "boss": {
+            "all": 1
+        },
+        "boundary": {
+            "clear": 1
+        },
         "boy": {
-            "bad": 1
+            "bad": 1,
+            "little": 1
         },
         "branch": {
             "medical": 1
+        },
+        "break": {
+            "complete": 1
+        },
+        "breakfast": {
+            "over": 1
+        },
+        "breakthrough": {
+            "major": 1
         },
         "breast": {
             "advanced": 1
@@ -137,46 +378,106 @@
         "breeze": {
             "cold": 1
         },
+        "brexiteer": {
+            "prominent": 1
+        },
         "brimmed": {
             "broad": 1
+        },
+        "briton": {
+            "intoxicated": 1
         },
         "broadway": {
             "separate": 1
         },
+        "bubble": {
+            "green": 1
+        },
         "buckboard": {
             "old": 1
+        },
+        "bucket": {
+            "regular": 1
         },
         "buddy": {
             "old": 2
         },
-        "bureaucracies": {
+        "building": {
+            "handsome": 1,
+            "white": 1,
+            "entire": 1
+        },
+        "bulletin": {
+            "electronic": 1
+        },
+        "bullshit": {
+            "adult": 1
+        },
+        "burden": {
+            "high": 1
+        },
+        "bureaucracy": {
             "medical": 1
         },
-        "bursts": {
+        "burst": {
             "short": 1
+        },
+        "business": {
+            "skydiving": 1
+        },
+        "by": {
+            "awake": 1
         },
         "cabin": {
             "nightly": 1
         },
+        "cafe": {
+            "new": 1
+        },
         "calaboose": {
             "local": 1
+        },
+        "callus": {
+            "yellow": 1
+        },
+        "cambridge": {
+            "firm": 1
         },
         "camp": {
             "outdoor": 1
         },
         "campaign": {
-            "presidential": 1
+            "presidential": 1,
+            "promotional": 1,
+            "recent": 1
+        },
+        "camper": {
+            "other": 1
+        },
+        "can": {
+            "void": 1,
+            "public": 1
         },
         "cancer": {
+            "illustrious": 1,
             "against": 1,
             "specific": 2,
-            "illustrious": 1
-        },
-        "cancers": {
             "many": 1
+        },
+        "cannister": {
+            "spare": 1
         },
         "cap": {
             "fashioned": 1
+        },
+        "capital": {
+            "professional": 1
+        },
+        "car": {
+            "passing": 1
+        },
+        "care": {
+            "medical": 1
         },
         "career": {
             "entire": 1
@@ -184,26 +485,78 @@
         "carpenter": {
             "best": 1
         },
-        "cases": {
+        "carpet": {
+            "red": 1
+        },
+        "case": {
+            "other": 1,
             "most": 1
         },
+        "cash": {
+            "ready": 1
+        },
+        "cast": {
+            "other": 1
+        },
         "category": {
-            "modern": 1,
-            "same": 1
+            "same": 1,
+            "modern": 1
         },
         "cell": {
             "empty": 1
         },
+        "center": {
+            "cultural": 2
+        },
+        "centerpiece": {
+            "attitudinal": 1
+        },
+        "centimetre": {
+            "square": 1
+        },
         "century": {
-            "half": 1
+            "half": 2
+        },
+        "chain": {
+            "irreversible": 1
+        },
+        "chance": {
+            "best": 1,
+            "higher": 1
+        },
+        "change": {
+            "permanent": 1,
+            "tremendous": 1
         },
         "chapter": {
             "angriest": 1
         },
+        "characteristics": {
+            "worst": 1
+        },
+        "chart": {
+            "meteorological": 1
+        },
+        "chase": {
+            "lunatic": 1
+        },
+        "chastity": {
+            "digital": 1
+        },
+        "cheek": {
+            "living": 1
+        },
+        "chess": {
+            "oversized": 1
+        },
         "cheyenne": {
             "other": 1
         },
-        "children": {
+        "chicken": {
+            "funky": 1
+        },
+        "child": {
+            "nonbiological": 1,
             "other": 1
         },
         "choice": {
@@ -212,30 +565,62 @@
         "chronicle": {
             "extraordinary": 1
         },
-        "churches": {
+        "church": {
             "black": 1
         },
         "circle": {
             "virtuous": 2
         },
-        "circumstances": {
+        "circumstance": {
             "other": 1
         },
+        "city": {
+            "fake": 1,
+            "many": 1,
+            "other": 1,
+            "coastal": 1,
+            "gleaming": 1
+        },
+        "citizen": {
+            "overseas": 2
+        },
+        "city's": {
+            "old": 1
+        },
+        "clarity": {
+            "analytical": 1
+        },
         "class": {
+            "different": 1,
+            "working": 2,
             "separate": 1,
-            "different": 1
+            "lower": 1
         },
         "classified": {
             "many": 1
         },
+        "cleaner": {
+            "dry": 1
+        },
         "climate": {
             "intellectual": 1
+        },
+        "climax": {
+            "orgasmic": 1
         },
         "closer": {
             "far": 1
         },
-        "clouds": {
+        "cloud": {
+            "thick": 2,
+            "solid": 1,
             "gray": 1
+        },
+        "coffee": {
+            "local": 1
+        },
+        "coiling": {
+            "endovascular": 1
         },
         "collaboration": {
             "interdisciplinary": 1
@@ -243,44 +628,71 @@
         "college": {
             "black": 1
         },
+        "collie": {
+            "fucking": 1
+        },
+        "color": {
+            "other": 1
+        },
         "column": {
             "spinal": 1
         },
         "combination": {
-            "promising": 1
-        },
-        "combinations": {
-            "different": 1,
-            "multiple": 1
+            "promising": 1,
+            "multiple": 1,
+            "different": 1
         },
         "comedy": {
             "dark": 1
         },
-        "comers": {
+        "comer": {
             "all": 1
+        },
+        "comfort": {
+            "extreme": 1
+        },
+        "community": {
+            "local": 1
+        },
+        "company": {
+            "biggest": 1,
+            "private": 1,
+            "random": 1
         },
         "competitive": {
             "significant": 1
         },
+        "complication": {
+            "minimal": 1
+        },
         "compound": {
             "newer": 1
         },
+        "computer": {
+            "best": 1
+        },
+        "concern": {
+            "significant": 1
+        },
         "conclusion": {
             "dramatic": 1,
+            "opposite": 1,
             "same": 1
         },
-        "conditions": {
-            "social": 1
+        "condition": {
+            "social": 1,
+            "favorable": 1
+        },
+        "conduit": {
+            "profitable": 1
         },
         "conference": {
             "recent": 1
         },
         "connection": {
-            "essential": 1,
+            "crucial": 1,
             "personal": 1,
-            "crucial": 1
-        },
-        "connections": {
+            "essential": 1,
             "distant": 1
         },
         "connectivity": {
@@ -289,33 +701,71 @@
         "consciousness": {
             "false": 1
         },
-        "contacts": {
+        "consensus": {
+            "broad": 1
+        },
+        "conservative": {
+            "reforming": 1
+        },
+        "consultant": {
+            "environmental": 1
+        },
+        "consulting": {
+            "political": 1
+        },
+        "contact": {
             "personal": 1
         },
+        "contradiction": {
+            "apparent": 1
+        },
         "contrast": {
+            "high": 1,
             "stark": 1
         },
+        "control": {
+            "operational": 1
+        },
         "conversation": {
+            "national": 1,
+            "empathic": 2,
             "new": 1,
             "old": 2,
-            "national": 1,
-            "empathic": 1
+            "crucial": 1
         },
-        "conversations": {
-            "crucial": 1,
-            "empathic": 1
+        "core": {
+            "monumental": 2,
+            "central": 1
+        },
+        "council": {
+            "local": 1
         },
         "country": {
-            "same": 1
+            "little": 1,
+            "same": 1,
+            "great": 1
+        },
+        "couple": {
+            "tense": 1,
+            "many": 1
+        },
+        "couple's": {
+            "older": 1
         },
         "course": {
             "longer": 1
         },
         "court": {
-            "federal": 1
+            "federal": 3
+        },
+        "courtyard": {
+            "opposite": 1
         },
         "credibility": {
             "signal": 1
+        },
+        "crisis": {
+            "latest": 1
         },
         "crowd": {
             "small": 1,
@@ -325,18 +775,45 @@
             "concrete": 1
         },
         "culture": {
-            "political": 1
+            "local": 1,
+            "political": 1,
+            "different": 1
+        },
+        "cycle": {
+            "solar": 1
+        },
+        "dancer": {
+            "best": 1
+        },
+        "darkness": {
+            "near": 1
         },
         "data": {
-            "private": 1
+            "private": 1,
+            "personal": 1
         },
-        "days": {
-            "most": 1,
+        "daughter": {
+            "young": 1,
+            "oldest": 1
+        },
+        "day": {
+            "same": 1,
+            "dark": 1,
+            "dashing": 1,
             "gray": 1,
-            "dashing": 1
+            "most": 1
+        },
+        "dc": {
+            "satisfying": 1
+        },
+        "deal": {
+            "same": 1
         },
         "death": {
-            "premature": 1
+            "gentle": 1,
+            "slow": 1,
+            "premature": 1,
+            "many": 1
         },
         "debate": {
             "national": 1
@@ -344,8 +821,47 @@
         "decline": {
             "inevitable": 1
         },
+        "decrease": {
+            "autonomy": 1
+        },
+        "defender": {
+            "public": 1
+        },
+        "deficit": {
+            "terrible": 1
+        },
+        "delay": {
+            "slight": 1
+        },
+        "delivery": {
+            "diaristic": 1
+        },
+        "demo": {
+            "original": 2
+        },
         "denouement": {
             "farcical": 1
+        },
+        "departure": {
+            "rare": 1,
+            "empty": 1
+        },
+        "depending": {
+            "preposterous": 1
+        },
+        "depth": {
+            "marital": 1,
+            "murky": 1
+        },
+        "designating": {
+            "strategy": 1
+        },
+        "desolate": {
+            "straight": 1
+        },
+        "detail": {
+            "tiny": 1,
+            "great": 1
         },
         "deterioration": {
             "nightmarish": 1
@@ -353,33 +869,68 @@
         "determinant": {
             "primary": 1
         },
-        "devices": {
+        "detour": {
+            "southern": 1
+        },
+        "detox": {
+            "digital": 1
+        },
+        "device": {
+            "rhetorical": 1,
             "potent": 1
         },
         "devita": {
-            "immediate": 1,
-            "necessary": 1
+            "necessary": 1,
+            "immediate": 1
         },
         "dialogue": {
             "inner": 1
+        },
+        "difference": {
+            "primary": 1,
+            "little": 1
+        },
+        "diner": {
+            "durable": 1
         },
         "direction": {
             "opposite": 2
         },
         "director": {
-            "clinical": 1
+            "clinical": 1,
+            "former": 1,
+            "good": 1
         },
         "disappointment": {
             "great": 1
         },
         "disclosure": {
-            "stealthy": 1
-        },
-        "disclosures": {
+            "stealthy": 1,
             "periodic": 1
         },
-        "diseases": {
+        "discussing": {
+            "over": 1
+        },
+        "discussion": {
+            "public": 1
+        },
+        "diseas": {
             "infectious": 1
+        },
+        "disfavor": {
+            "cosmic": 1
+        },
+        "disobedience": {
+            "civil": 1
+        },
+        "display": {
+            "powerful": 1,
+            "brilliant": 1,
+            "innocuous": 1,
+            "major": 1,
+            "weak": 1,
+            "photogenic": 1,
+            "glorious": 1
         },
         "disposition": {
             "aesthetic": 1
@@ -387,12 +938,22 @@
         "distance": {
             "long": 2
         },
-        "distractions": {
+        "distraction": {
+            "easy": 1,
             "new": 1
         },
-        "doctors": {
-            "bad": 1,
-            "many": 1
+        "distrust": {
+            "puritanical": 1
+        },
+        "disturbance": {
+            "stronger": 1
+        },
+        "do": {
+            "logical": 1
+        },
+        "doctor": {
+            "many": 1,
+            "bad": 1
         },
         "documentation": {
             "detailed": 1
@@ -401,28 +962,57 @@
             "plant": 1
         },
         "doing": {
+            "mad": 1,
             "living": 1
+        },
+        "door": {
+            "automatic": 1
         },
         "dormitory": {
             "same": 1
         },
         "dose": {
-            "prior": 1
-        },
-        "doses": {
-            "large": 1,
+            "prior": 1,
             "daily": 1,
-            "full": 1
+            "full": 1,
+            "large": 1
+        },
+        "dothraki": {
+            "musclebound": 1
+        },
+        "dough": {
+            "extra": 1
+        },
+        "dozen": {
+            "past": 1,
+            "half": 1
+        },
+        "dream": {
+            "bad": 3,
+            "entire": 1,
+            "terrible": 1,
+            "stupid": 1
+        },
+        "drink": {
+            "complimentary": 1,
+            "warm": 1
         },
         "drug": {
-            "new": 1,
+            "new": 2,
             "single": 1,
-            "experimental": 2
-        },
-        "drugs": {
-            "new": 1,
+            "experimental": 2,
             "bad": 1,
             "good": 1
+        },
+        "e": {
+            "over": 1,
+            "frantic": 1
+        },
+        "earnest": {
+            "most": 1
+        },
+        "ear": {
+            "younger": 1
         },
         "east": {
             "back": 1
@@ -431,25 +1021,38 @@
             "upper": 1
         },
         "economy": {
-            "certain": 1
+            "certain": 1,
+            "local": 1,
+            "natural": 1
+        },
+        "edge": {
+            "political": 1
         },
         "education": {
             "higher": 1
         },
         "effect": {
-            "full": 1
-        },
-        "effects": {
+            "full": 1,
             "toxic": 1
         },
         "efficiency": {
             "marvellous": 1
         },
-        "efforts": {
+        "effort": {
             "diplomatic": 1
+        },
+        "egg": {
+            "last": 1
+        },
+        "election": {
+            "local": 1,
+            "contentious": 1
         },
         "electric": {
             "mild": 1
+        },
+        "element": {
+            "crucial": 1
         },
         "ellsberg": {
             "even": 1
@@ -460,25 +1063,63 @@
         "emerge": {
             "alike": 1
         },
-        "emotions": {
+        "emergency": {
+            "basic": 1
+        },
+        "emerging": {
+            "other": 1
+        },
+        "emotion": {
+            "intense": 1,
             "facial": 1
         },
+        "employee": {
+            "former": 1
+        },
+        "employment": {
+            "all": 1
+        },
+        "empowerment": {
+            "female": 1
+        },
+        "enchantment": {
+            "primal": 1
+        },
         "end": {
-            "south": 1
+            "south": 1,
+            "high": 1
         },
         "ending": {
-            "happy": 2
+            "happy": 3
+        },
+        "energy": {
+            "big": 1
         },
         "enforce": {
             "over": 1
         },
+        "enforcement": {
+            "strict": 1
+        },
         "engineering": {
             "technology": 1
+        },
+        "english": {
+            "studious": 1
+        },
+        "enhancement": {
+            "digital": 1
+        },
+        "enthusiasm": {
+            "desperate": 1
         },
         "entity": {
             "governmental": 1
         },
-        "episodes": {
+        "environment": {
+            "dangerous": 1
+        },
+        "episode": {
             "extraordinary": 1
         },
         "epstein": {
@@ -487,48 +1128,129 @@
         "equilibrium": {
             "strategy": 3
         },
+        "erasure": {
+            "cultural": 1
+        },
         "escalation": {
             "desperate": 1
+        },
+        "establishment": {
+            "political": 1
+        },
+        "estate": {
+            "real": 1
+        },
+        "european": {
+            "fun": 1
         },
         "evangelism's": {
             "digital": 1
         },
-        "event": {
-            "social": 1
+        "evening": {
+            "final": 1
         },
-        "exceptions": {
+        "event": {
+            "pivotal": 1,
+            "social": 1,
+            "other": 1
+        },
+        "everything": {
+            "free": 1
+        },
+        "eviction": {
+            "housing": 1
+        },
+        "examiner": {
+            "outside": 1
+        },
+        "exception": {
             "symbolic": 1
         },
         "exchange": {
+            "personal": 1,
             "mechanical": 1
         },
         "exciting": {
             "most": 1
         },
+        "excursion": {
+            "cultural": 1,
+            "usual": 1
+        },
+        "executive": {
+            "former": 1
+        },
         "exercise": {
             "mental": 1
+        },
+        "exhausted": {
+            "late": 1
+        },
+        "exhaustion": {
+            "worst": 1
+        },
+        "expectation": {
+            "unrealistic": 1
         },
         "expedition": {
             "fishing": 1
         },
-        "eyes": {
+        "experience": {
+            "spiritual": 1,
+            "professional": 1,
+            "whole": 1
+        },
+        "experiment": {
+            "digital": 1
+        },
+        "explanation": {
+            "better": 1
+        },
+        "exposure": {
+            "long": 1
+        },
+        "expression": {
+            "black": 1,
+            "public": 1
+        },
+        "extension": {
+            "natural": 1
+        },
+        "eye": {
+            "naked": 2,
             "gray": 1
         },
         "faced": {
             "fresh": 1
         },
-        "fact": {
-            "curious": 1,
-            "crucial": 1
+        "facing": {
+            "north": 1
         },
-        "facts": {
-            "curious": 1
+        "fact": {
+            "crucial": 1,
+            "curious": 2,
+            "scientific": 1
+        },
+        "fad": {
+            "tourist": 1
+        },
+        "family": {
+            "entire": 1
+        },
+        "fatalism": {
+            "ambient": 1
+        },
+        "fbi": {
+            "former": 2
         },
         "feature": {
             "constant": 1
         },
         "feed": {
             "online": 1
+        },
+        "feeling": {
+            "vague": 1
         },
         "fervor": {
             "ideological": 1
@@ -539,11 +1261,32 @@
         "fiction": {
             "historical": 1
         },
-        "figure": {
-            "compelling": 1
+        "field": {
+            "magnetic": 4
         },
-        "figures": {
+        "figure": {
+            "compelling": 1,
             "critical": 1
+        },
+        "fill": {
+            "free": 1
+        },
+        "fin": {
+            "elegant": 1
+        },
+        "financial": {
+            "global": 2,
+            "great": 1
+        },
+        "fishing": {
+            "thriving": 1
+        },
+        "fjordscape": {
+            "frozen": 1
+        },
+        "flash": {
+            "hot": 1,
+            "eerie": 1
         },
         "flexibility": {
             "maximum": 1
@@ -551,17 +1294,45 @@
         "flip": {
             "single": 1
         },
+        "flippant": {
+            "most": 1
+        },
         "flow": {
             "steady": 1
+        },
+        "fluctuation": {
+            "strange": 1
         },
         "fluid": {
             "spinal": 1
         },
-        "focus": {
+        "flux": {
+            "luminous": 1
+        },
+        "focu": {
             "special": 1
+        },
+        "folding": {
+            "square": 1
+        },
+        "folklore": {
+            "nordic": 1
+        },
+        "follower": {
+            "many": 1
+        },
+        "force": {
+            "physical": 1,
+            "external": 1
+        },
+        "ford": {
+            "ancient": 1
         },
         "foreign": {
             "infamous": 1
+        },
+        "foreigner": {
+            "naked": 1
         },
         "form": {
             "new": 1
@@ -569,76 +1340,185 @@
         "formula": {
             "original": 1
         },
+        "fortune": {
+            "bad": 1
+        },
         "fraction": {
-            "small": 1,
-            "underfundeda": 1
+            "underfundeda": 1,
+            "small": 1
+        },
+        "framing": {
+            "extravagant": 1
         },
         "freedom": {
-            "digital": 1
+            "digital": 1,
+            "religious": 1
         },
         "freewheeling": {
             "same": 1
         },
-        "friend": {
-            "good": 1
+        "french": {
+            "excellent": 1
         },
-        "friends": {
-            "good": 1
+        "friend": {
+            "old": 1,
+            "good": 2
+        },
+        "fruit": {
+            "fresh": 1
         },
         "frustration": {
             "perennial": 1
         },
-        "functions": {
-            "logistical": 1
+        "function": {
+            "logistical": 1,
+            "particular": 1
+        },
+        "funk": {
+            "percussive": 1
+        },
+        "furnishing": {
+            "wooden": 1
         },
         "future": {
             "better": 1
         },
+        "gain": {
+            "legal": 1
+        },
+        "gase": {
+            "atmospheric": 1
+        },
+        "gateway": {
+            "metal": 1
+        },
         "gathering": {
             "social": 1
         },
-        "generation": {
-            "previous": 1
+        "gear": {
+            "thermal": 1
         },
-        "genius": {
-            "great": 1,
-            "athletic": 1
+        "generation": {
+            "previous": 1,
+            "successive": 1
+        },
+        "geniality": {
+            "diplomatic": 1
+        },
+        "geniu": {
+            "athletic": 1,
+            "great": 1
+        },
+        "gentrification": {
+            "urban": 1,
+            "rapid": 1
+        },
+        "gentrification's": {
+            "still": 1
+        },
+        "gentrifier": {
+            "over": 1
+        },
+        "gesture": {
+            "fashioned": 1
+        },
+        "get": {
+            "later": 1
+        },
+        "ghost": {
+            "telling": 1
         },
         "gift": {
             "extraordinary": 1
         },
-        "girl": {
-            "little": 1
+        "gifted": {
+            "uncanny": 1
         },
-        "girls": {
-            "little": 1
+        "ginger": {
+            "warm": 1
+        },
+        "girl": {
+            "little": 3,
+            "blond": 1,
+            "young": 1
         },
         "give": {
-            "better": 1
+            "better": 1,
+            "cold": 1
         },
-        "goes": {
+        "glow": {
+            "faint": 1,
+            "green": 1
+        },
+        "glowing": {
+            "green": 1
+        },
+        "go": {
+            "local": 1,
             "alive": 1
+        },
+        "godfather": {
+            "late": 1
         },
         "golnaz": {
             "right": 1
         },
+        "goosebump": {
+            "over": 1
+        },
         "government": {
-            "federal": 1,
-            "democratic": 1,
-            "good": 1
+            "federal": 2,
+            "local": 4,
+            "good": 1,
+            "democratic": 1
+        },
+        "government's": {
+            "local": 1
+        },
+        "grail": {
+            "green": 1
+        },
+        "granted": {
+            "soon": 1
+        },
+        "grasp": {
+            "inadequate": 1
+        },
+        "green": {
+            "sole": 1
+        },
+        "grin": {
+            "goofy": 1
         },
         "ground": {
-            "cultural": 1
+            "cultural": 1,
+            "bosky": 1
         },
         "group": {
             "insurgent": 1,
-            "terrorist": 1
-        },
-        "groups": {
+            "activist": 1,
+            "terrorist": 1,
             "social": 1
+        },
+        "growing": {
+            "beautiful": 1
         },
         "guess": {
             "even": 1
+        },
+        "guest": {
+            "welcome": 1,
+            "right": 1
+        },
+        "guide": {
+            "hiking": 1,
+            "capable": 1
+        },
+        "guy": {
+            "other": 1
+        },
+        "habitation": {
+            "regular": 1
         },
         "hack": {
             "funeral": 2
@@ -647,7 +1527,10 @@
             "murky": 1
         },
         "hair": {
-            "blond": 1
+            "blond": 1,
+            "gray": 1,
+            "even": 1,
+            "white": 1
         },
         "hand": {
             "other": 1
@@ -656,50 +1539,106 @@
             "premium": 1
         },
         "hat": {
+            "top": 1,
             "big": 1
         },
         "have": {
-            "well": 1
+            "well": 2
+        },
+        "having": {
+            "weary": 1
+        },
+        "haze": {
+            "white": 1
+        },
+        "hbo": {
+            "new": 2
         },
         "he": {
-            "fine": 1,
-            "all": 2,
-            "foolish": 2,
-            "material": 1,
-            "gone": 1,
-            "best": 1,
             "well": 1,
-            "alive": 1,
+            "foolish": 2,
+            "all": 3,
+            "best": 1,
+            "material": 1,
+            "awake": 1,
+            "gone": 1,
+            "thick": 1,
             "back": 1,
-            "earlier": 1,
             "persuasive": 1,
-            "even": 1,
+            "wrong": 1,
+            "fine": 1,
             "sorry": 1,
-            "sure": 1
+            "sure": 1,
+            "even": 1,
+            "done": 1,
+            "crazy": 1,
+            "alive": 1,
+            "earlier": 1,
+            "red": 1,
+            "stale": 1,
+            "green": 1
         },
-        "hearings": {
+        "he's": {
+            "late": 1
+        },
+        "head": {
+            "global": 1,
+            "back": 1
+        },
+        "headache": {
+            "bad": 1,
+            "horrific": 1
+        },
+        "headline": {
+            "same": 1
+        },
+        "hearing": {
             "public": 1
         },
+        "heart": {
+            "low": 1
+        },
+        "heat": {
+            "ferocious": 1
+        },
+        "hemorrhage": {
+            "subarachnoid": 1
+        },
         "her": {
+            "all": 3,
             "over": 3,
+            "still": 1,
+            "sprinkler": 1,
+            "behind": 1,
             "under": 1
+        },
+        "here": {
+            "mad": 2,
+            "visible": 1
+        },
+        "herself": {
+            "against": 1
         },
         "him": {
             "over": 1
         },
         "his": {
+            "even": 2,
             "expected": 1,
-            "against": 1,
-            "past": 1,
-            "outside": 1,
             "over": 1,
-            "even": 1,
+            "past": 2,
+            "outside": 1,
+            "half": 1,
+            "against": 1,
             "under": 1
         },
         "history": {
-            "oral": 1,
             "institutional": 1,
+            "oral": 1,
             "secret": 1
+        },
+        "hit": {
+            "older": 1
         },
         "hiv": {
             "against": 1
@@ -707,64 +1646,193 @@
         "hodgkin's": {
             "against": 1
         },
-        "hope": {
-            "best": 2
+        "home": {
+            "back": 1,
+            "funeral": 1
         },
-        "houses": {
-            "safe": 1
+        "homeowner": {
+            "online": 1
+        },
+        "hon": {
+            "early": 1
+        },
+        "hope": {
+            "best": 2,
+            "little": 1,
+            "mere": 1,
+            "unreasonable": 1
+        },
+        "hospitality": {
+            "traditional": 1
+        },
+        "hostel": {
+            "facto": 1
+        },
+        "hotel": {
+            "traditional": 1,
+            "new": 1
+        },
+        "house": {
+            "fun": 1
+        },
+        "hous": {
+            "safe": 1,
+            "entire": 1
+        },
+        "housing": {
+            "ordinary": 1
+        },
+        "howard": {
+            "near": 1
+        },
+        "hue": {
+            "greenish": 1
         },
         "human": {
-            "most": 1
+            "most": 1,
+            "beyond": 1,
+            "other": 1
+        },
+        "hurdle": {
+            "great": 1
+        },
+        "hut": {
+            "dark": 1
         },
         "i": {
-            "all": 1,
+            "contemporary": 1,
             "bad": 1,
-            "later": 1
+            "true": 1,
+            "soon": 1,
+            "inside": 1,
+            "over": 1,
+            "myopic": 1,
+            "later": 2,
+            "fair": 1,
+            "alive": 1,
+            "logic": 1,
+            "fine": 1,
+            "fortunate": 1,
+            "good": 1,
+            "all": 2,
+            "boring": 1,
+            "worse": 1
         },
         "i'd": {
             "expected": 1
         },
+        "i'm": {
+            "fine": 1
+        },
         "idea": {
             "same": 1,
-            "new": 1,
-            "bad": 1
-        },
-        "ideas": {
-            "good": 2,
-            "new": 1
+            "bad": 1,
+            "horrible": 1,
+            "good": 3,
+            "new": 2,
+            "other": 1,
+            "best": 1
         },
         "if": {
             "long": 1
         },
+        "igloo": {
+            "newish": 1
+        },
         "illustration": {
             "good": 1
+        },
+        "image": {
+            "vivid": 1,
+            "generic": 1
+        },
+        "imagination": {
+            "deep": 1
+        },
+        "immigration": {
+            "secure": 1
+        },
+        "impatience": {
+            "increasing": 1
         },
         "impression": {
             "biggest": 1
         },
-        "incentives": {
+        "impressionz": {
+            "new": 1
+        },
+        "imprint": {
+            "geographic": 1
+        },
+        "impulse": {
+            "civic": 1
+        },
+        "incentive": {
             "strong": 1
+        },
+        "including": {
+            "visible": 1
+        },
+        "incorporation": {
+            "inextricable": 1
         },
         "indictment": {
             "historic": 1
         },
-        "innovations": {
+        "industry": {
+            "private": 1
+        },
+        "information": {
+            "new": 1
+        },
+        "infusion": {
+            "regular": 1
+        },
+        "ing": {
+            "vanilla": 1
+        },
+        "ingenuity": {
+            "stylistic": 1
+        },
+        "innovation": {
             "best": 1
         },
-        "innovators": {
+        "innovative": {
+            "most": 1
+        },
+        "innovator": {
             "other": 1
         },
         "insight": {
-            "vital": 1,
-            "powerful": 1
+            "powerful": 1,
+            "vital": 1
+        },
+        "inspiration": {
+            "philosophical": 1
+        },
+        "instagram": {
+            "most": 1
+        },
+        "instinct": {
+            "darker": 1
+        },
+        "institution": {
+            "academic": 1
         },
         "insubordination": {
             "racial": 1
         },
+        "intake": {
+            "deep": 1
+        },
+        "integrity": {
+            "emotional": 1
+        },
         "intelligence": {
             "foreign": 2,
-            "national": 1,
-            "senior": 1
+            "senior": 1,
+            "powerful": 1,
+            "national": 1
         },
         "intentioned": {
             "well": 1
@@ -772,25 +1840,73 @@
         "interest": {
             "national": 1
         },
+        "internet": {
+            "secure": 1
+        },
+        "intersection": {
+            "busy": 1
+        },
+        "interval": {
+            "regular": 1
+        },
+        "investment": {
+            "rental": 1
+        },
+        "invest": {
+            "particular": 1
+        },
         "iran": {
             "inside": 1
         },
         "is": {
-            "respondent": 1
+            "respondent": 1,
+            "last": 1
+        },
+        "island": {
+            "private": 1
         },
         "issue": {
-            "old": 1
+            "old": 1,
+            "basic": 1,
+            "local": 1
         },
         "it": {
-            "same": 1,
-            "compromised": 1,
+            "possible": 1,
+            "chic": 1,
+            "against": 2,
             "beyond": 1,
+            "real": 1,
+            "compromised": 1,
+            "legitimate": 1,
+            "individual": 1,
+            "busy": 1,
+            "same": 1,
+            "all": 1,
+            "strategy": 1,
             "good": 1
         },
         "it's": {
-            "arbitrary": 1
+            "sorry": 1,
+            "minimalist": 1,
+            "arbitrary": 1,
+            "well": 1
+        },
+        "italian": {
+            "young": 1
+        },
+        "italy": {
+            "rural": 1,
+            "central": 1
+        },
+        "iteration": {
+            "earlier": 1
+        },
+        "itinerary": {
+            "cultural": 1
         },
         "its": {
+            "under": 1,
+            "all": 2,
             "over": 1
         },
         "jackpot": {
@@ -799,29 +1915,77 @@
         "james": {
             "all": 1
         },
-        "journalists": {
+        "janet": {
+            "light": 1
+        },
+        "jean": {
+            "purple": 1
+        },
+        "job": {
+            "shitty": 1,
+            "better": 1,
+            "teaching": 1,
+            "writing": 1
+        },
+        "join": {
+            "titled": 1
+        },
+        "journalist": {
+            "old": 1,
             "western": 1
         },
-        "key": {
-            "different": 1
+        "juice": {
+            "orange": 1
         },
-        "keys": {
+        "june": {
+            "bright": 1
+        },
+        "jussi's": {
+            "sharp": 1
+        },
+        "kahuna": {
+            "big": 1
+        },
+        "kakslauttanen": {
+            "beyond": 1
+        },
+        "key": {
+            "different": 1,
             "right": 1
         },
         "kickball": {
             "purple": 3
         },
+        "kindness": {
+            "great": 1
+        },
+        "kiss": {
+            "searing": 1
+        },
         "knowing": {
             "all": 1
         },
         "knowledge": {
-            "intimate": 1
+            "intimate": 1,
+            "little": 1
         },
-        "knows": {
+        "know": {
             "technology": 1
+        },
+        "kristian": {
+            "physicist": 1
         },
         "ku": {
             "local": 1
+        },
+        "kyle": {
+            "critic": 1
+        },
+        "labor": {
+            "contemporary": 1
+        },
+        "labour": {
+            "former": 1
         },
         "lack": {
             "total": 1
@@ -829,99 +1993,199 @@
         "lady": {
             "fat": 1
         },
+        "lake": {
+            "frozen": 1
+        },
+        "landmark": {
+            "true": 1
+        },
+        "landowner": {
+            "local": 1
+        },
+        "landscape": {
+            "flat": 1
+        },
+        "larceny": {
+            "potential": 1,
+            "grand": 1
+        },
         "lasted": {
             "trial": 1
         },
-        "laws": {
-            "strict": 1
+        "latte": {
+            "turmeric": 1
+        },
+        "laugh": {
+            "little": 1
+        },
+        "law": {
+            "federal": 1,
+            "strict": 1,
+            "sodomy": 2,
+            "rental": 1
+        },
+        "lead": {
+            "likely": 1
+        },
+        "leader": {
+            "indigenous": 1
         },
         "leak": {
-            "good": 1
+            "good": 1,
+            "unauthorized": 1
         },
         "leaking": {
             "against": 1
         },
-        "leaks": {
-            "unauthorized": 1
+        "leapfrog": {
+            "legal": 1
+        },
+        "legislative": {
+            "particular": 1
+        },
+        "lego": {
+            "identical": 1
+        },
+        "leg": {
+            "white": 1
         },
         "less": {
             "personal": 1,
-            "far": 1,
-            "other": 1
+            "far": 2,
+            "other": 1,
+            "happier": 1
         },
         "lesson": {
+            "useful": 1,
             "obvious": 1
         },
-        "letters": {
+        "letter": {
             "yellow": 1
         },
         "level": {
+            "high": 2,
             "molecular": 1,
-            "high": 1
-        },
-        "levels": {
+            "federal": 1,
             "dangerous": 1
+        },
+        "lgbt": {
+            "against": 1,
+            "most": 1
         },
         "liar": {
             "black": 1
         },
-        "liberties": {
+        "liberty": {
             "civil": 1
         },
-        "libraries": {
+        "library": {
             "whole": 1
         },
         "life": {
+            "modern": 1,
+            "political": 1,
+            "busy": 1,
             "real": 2,
-            "political": 1
+            "lively": 1
         },
-        "lights": {
+        "lifeform": {
+            "other": 1
+        },
+        "lighting": {
+            "industrial": 1
+        },
+        "light": {
+            "northern": 3,
             "red": 1
         },
         "like": {
-            "spontaneous": 1,
-            "plant": 1
+            "plant": 1,
+            "back": 1,
+            "spontaneous": 1
         },
         "likelihood": {
             "all": 1
         },
         "line": {
-            "hard": 1
+            "hard": 1,
+            "strange": 1,
+            "long": 1
+        },
+        "loaf": {
+            "long": 1
+        },
+        "local": {
+            "friendly": 1
         },
         "lock": {
             "under": 1
         },
+        "log": {
+            "quaint": 1,
+            "over": 1
+        },
+        "london": {
+            "central": 1
+        },
+        "look": {
+            "wild": 1
+        },
         "looking": {
-            "good": 2,
             "backwards": 1,
+            "good": 2,
             "psychiatrist": 1
         },
         "lord": {
             "good": 1
         },
+        "losing": {
+            "even": 1
+        },
         "lottery": {
             "old": 1
         },
         "luck": {
-            "bad": 2
+            "bad": 3
         },
-        "lumpectomies": {
+        "lumpectomy": {
             "invasive": 1
         },
-        "makes": {
-            "technology": 1
+        "lunch": {
+            "over": 1
         },
-        "maladies": {
+        "make": {
+            "technology": 1,
+            "livable": 1
+        },
+        "malady": {
             "all": 1
         },
         "man": {
+            "unassuming": 1,
             "young": 1,
+            "skinned": 2,
             "old": 6,
-            "skinned": 2
+            "joking": 1,
+            "white": 1,
+            "many": 1,
+            "older": 1,
+            "other": 1
+        },
+        "man's": {
+            "baggy": 1
+        },
+        "management": {
+            "global": 1
         },
         "marble": {
-            "lucky": 1,
-            "black": 1
+            "black": 1,
+            "lucky": 1
+        },
+        "mark": {
+            "crucial": 1
+        },
+        "marriage": {
+            "later": 1
         },
         "mary": {
             "old": 1
@@ -929,19 +2193,30 @@
         "mary's": {
             "over": 1
         },
-        "mastectomies": {
-            "radical": 2,
-            "total": 1
+        "mastectomy": {
+            "total": 1,
+            "radical": 2
+        },
+        "mat": {
+            "welcome": 1
         },
         "me": {
-            "telling": 1,
-            "behind": 1
+            "behind": 2,
+            "telling": 2,
+            "over": 1
+        },
+        "meaning": {
+            "new": 1,
+            "invasive": 1
         },
         "mechanism": {
             "arbitrary": 2
         },
         "media": {
-            "social": 6
+            "social": 28
+        },
+        "media's": {
+            "social": 1
         },
         "medicine": {
             "modern": 1
@@ -949,45 +2224,171 @@
         "meeting": {
             "annual": 1
         },
-        "memories": {
-            "detailed": 1
-        },
-        "men": {
-            "other": 1
+        "memory": {
+            "detailed": 1,
+            "vague": 1,
+            "clear": 1,
+            "communal": 1
         },
         "message": {
-            "real": 1
+            "real": 1,
+            "short": 1
+        },
+        "method": {
+            "efficient": 1
         },
         "michael": {
             "theorist": 1
         },
         "middle": {
-            "private": 1
+            "private": 1,
+            "happy": 1
+        },
+        "might": {
+            "original": 1
+        },
+        "military": {
+            "overseas": 1
+        },
+        "millennial": {
+            "many": 1
+        },
+        "minimalism": {
+            "digital": 2
+        },
+        "minimalist": {
+            "digital": 1
+        },
+        "minute": {
+            "daily": 1
+        },
+        "mistake": {
+            "pragmatic": 1
+        },
+        "mobile": {
+            "successful": 1,
+            "new": 1,
+            "additional": 1
+        },
+        "mob": {
+            "tourist": 1
         },
         "model": {
-            "new": 1
+            "mercenary": 1,
+            "new": 1,
+            "earlier": 1
+        },
+        "moment": {
+            "fleeting": 1,
+            "last": 1,
+            "right": 1,
+            "worst": 1
+        },
+        "money": {
+            "extra": 1
+        },
+        "more": {
+            "irritable": 1
+        },
+        "morning": {
+            "bright": 1,
+            "brilliant": 1,
+            "bizarre": 1,
+            "good": 1
+        },
+        "motion": {
+            "perpetual": 1
         },
         "mr": {
-            "well": 1,
-            "dead": 1
+            "dead": 1,
+            "well": 1
+        },
+        "municipality": {
+            "tiny": 1
+        },
+        "muscle": {
+            "legal": 1
+        },
+        "museum": {
+            "obscure": 1
+        },
+        "music": {
+            "actual": 1
+        },
+        "my": {
+            "over": 2,
+            "beyond": 2,
+            "all": 1
+        },
+        "myself": {
+            "telling": 2
+        },
+        "name": {
+            "same": 1,
+            "full": 1
+        },
+        "nature": {
+            "against": 1
         },
         "nci": {
             "old": 1
         },
-        "need": {
-            "tremendous": 1
+        "necessity": {
+            "professional": 1
         },
-        "needs": {
+        "need": {
+            "tremendous": 1,
             "public": 1
         },
-        "newspapers": {
+        "neighborhood": {
+            "paranoid": 1,
+            "dense": 1,
+            "residential": 1,
+            "salubrious": 1
+        },
+        "newport": {
+            "important": 1
+        },
+        "news": {
+            "bad": 1,
+            "great": 1,
+            "good": 2
+        },
+        "newspaper": {
+            "local": 1,
             "major": 1
         },
         "night": {
-            "hard": 1
+            "lively": 1,
+            "hard": 2,
+            "free": 1,
+            "freezing": 1,
+            "most": 2
+        },
+        "nightmare": {
+            "persistent": 1
+        },
+        "ninety": {
+            "early": 1
+        },
+        "nitrogen": {
+            "atmospheric": 1,
+            "red": 1
+        },
+        "no": {
+            "ok": 1
+        },
+        "noncommercialized": {
+            "last": 1
         },
         "nonfiction": {
             "great": 1
+        },
+        "norseman": {
+            "burly": 1
+        },
+        "not": {
+            "titled": 1
         },
         "novel": {
             "original": 1
@@ -995,34 +2396,61 @@
         "november": {
             "black": 1
         },
+        "now": {
+            "right": 1,
+            "even": 1
+        },
         "nsa": {
             "former": 1
         },
         "number": {
+            "wrong": 1,
+            "insufficient": 1,
             "possible": 1,
-            "small": 1
+            "small": 1,
+            "surprising": 1,
+            "average": 1,
+            "large": 1
         },
-        "offenses": {
+        "odd": {
+            "good": 1
+        },
+        "odell": {
+            "alive": 1
+        },
+        "offense": {
             "prosecutable": 1
         },
         "olympic": {
             "fast": 1
         },
-        "ones": {
+        "one": {
+            "great": 1,
             "cheap": 1,
-            "good": 1,
-            "earlier": 1
+            "good": 2,
+            "earlier": 1,
+            "real": 1
+        },
+        "onset": {
+            "early": 1
+        },
+        "oozing": {
+            "ancient": 1
         },
         "opened": {
             "even": 1,
             "plant": 1
         },
-        "operations": {
+        "operation": {
+            "simple": 1,
             "overseas": 1
         },
         "opinion": {
-            "public": 1,
-            "legal": 1
+            "legal": 1,
+            "public": 1
+        },
+        "opportunity": {
+            "new": 1
         },
         "option": {
             "best": 1
@@ -1030,11 +2458,25 @@
         "order": {
             "different": 1
         },
+        "organizer": {
+            "later": 1
+        },
         "organizing": {
             "critical": 1
         },
+        "orientation": {
+            "sexual": 6
+        },
+        "origin": {
+            "different": 1,
+            "local": 1,
+            "physical": 1
+        },
+        "others": {
+            "many": 1
+        },
         "our": {
-            "over": 1,
+            "over": 2,
             "compromised": 1
         },
         "ours": {
@@ -1043,16 +2485,51 @@
         "page": {
             "individual": 1
         },
-        "parties": {
+        "panel": {
+            "solar": 1
+        },
+        "pant": {
+            "fancy": 1
+        },
+        "paper": {
+            "academic": 1,
+            "auditable": 1
+        },
+        "parent": {
+            "lesbian": 1
+        },
+        "park": {
+            "public": 1
+        },
+        "part": {
+            "scary": 5,
+            "manageable": 1,
+            "small": 1,
+            "alive": 1
+        },
+        "participation": {
+            "higher": 1
+        },
+        "particle": {
+            "solar": 3
+        },
+        "party": {
             "all": 1
         },
-        "passes": {
+        "passenger": {
+            "other": 1
+        },
+        "pass": {
             "short": 1
         },
-        "patches": {
+        "pasture": {
+            "greener": 1
+        },
+        "patch": {
             "bald": 1
         },
         "path": {
+            "tourist": 1,
             "different": 1
         },
         "patience": {
@@ -1061,51 +2538,144 @@
         "patient's": {
             "typical": 1
         },
-        "patients": {
-            "all": 1,
-            "leukemic": 1
+        "patient": {
+            "leukemic": 1,
+            "all": 1
+        },
+        "patter": {
+            "jovial": 1
         },
         "pattern": {
             "fundamental": 1
         },
-        "people": {
-            "young": 2,
+        "pause": {
+            "mental": 1
+        },
+        "peace": {
+            "mental": 1
+        },
+        "person": {
+            "many": 7,
             "different": 1,
+            "new": 1,
+            "other": 7,
+            "disgruntled": 1,
+            "telling": 1,
+            "gay": 1,
+            "local": 1,
+            "young": 3,
             "thoughtful": 1,
-            "other": 5,
-            "many": 1
+            "angry": 1,
+            "naked": 1,
+            "better": 1
+        },
+        "permit": {
+            "proper": 1
         },
         "pessimism": {
             "internal": 1
         },
+        "phenomenon": {
+            "natural": 1
+        },
         "phone": {
-            "silent": 1
+            "silent": 1,
+            "daily": 1,
+            "smart": 1,
+            "certain": 1
+        },
+        "photo": {
+            "puppy": 1
+        },
+        "physics": {
+            "theoretical": 1
+        },
+        "pick": {
+            "recent": 1
+        },
+        "picture": {
+            "dramatic": 1,
+            "nice": 1
         },
         "piece": {
             "small": 1
         },
-        "place": {
+        "pilot": {
+            "small": 1
+        },
+        "pink": {
             "different": 1
+        },
+        "place": {
+            "different": 1,
+            "safer": 1,
+            "free": 1,
+            "specific": 1,
+            "authentic": 1,
+            "affordable": 1,
+            "tourist": 1,
+            "better": 1,
+            "remote": 1,
+            "secure": 1
+        },
+        "plaid": {
+            "pale": 1
         },
         "plainsman": {
             "brown": 1
         },
+        "plan": {
+            "ambitious": 1
+        },
         "plastic": {
             "purple": 1
+        },
+        "platform": {
+            "social": 1,
+            "new": 1,
+            "good": 1
+        },
+        "plaza": {
+            "public": 1,
+            "local": 1
         },
         "plot": {
             "burial": 1
         },
         "point": {
+            "whole": 1,
+            "high": 1,
+            "low": 1,
+            "technical": 1,
             "narrow": 1,
-            "whole": 1
+            "certain": 1
+        },
+        "policy": {
+            "public": 1
+        },
+        "pollution": {
+            "light": 1
         },
         "pop": {
             "soft": 1
         },
-        "populations": {
+        "popularity": {
+            "sudden": 1
+        },
+        "population": {
+            "resident": 1,
+            "transient": 1,
+            "other": 1,
+            "all": 1,
+            "significant": 1,
             "smaller": 1,
             "larger": 1
+        },
+        "port": {
+            "industrial": 1
+        },
+        "posing": {
+            "tourist": 1
         },
         "post": {
             "senior": 1
@@ -1117,17 +2687,23 @@
             "systemic": 1
         },
         "power": {
-            "extraordinary": 1
+            "extraordinary": 1,
+            "equivocal": 1
         },
         "practice": {
+            "clinical": 1,
             "medical": 1,
-            "clinical": 1
-        },
-        "practices": {
             "best": 2
         },
+        "prank": {
+            "fantastic": 1
+        },
+        "preexisting": {
+            "certain": 1
+        },
         "presence": {
-            "mere": 1
+            "mere": 1,
+            "online": 1
         },
         "presentation": {
             "crucial": 1
@@ -1136,27 +2712,81 @@
             "strong": 1,
             "bad": 1
         },
+        "press": {
+            "bad": 1
+        },
+        "pressing": {
+            "most": 1
+        },
+        "princess": {
+            "young": 1
+        },
         "problem": {
+            "persistent": 1,
             "old": 1,
-            "persistent": 1
+            "public": 1,
+            "similar": 1,
+            "personal": 1
+        },
+        "production": {
+            "bad": 1
+        },
+        "productivity": {
+            "capitalist": 1
         },
         "profile": {
+            "high": 1,
             "molecular": 1
         },
+        "profit": {
+            "current": 1
+        },
         "progress": {
-            "clinical": 1,
-            "extraordinary": 1
+            "extraordinary": 1,
+            "clinical": 1
+        },
+        "project": {
+            "even": 1
+        },
+        "promenade": {
+            "new": 1
+        },
+        "prompt": {
+            "timely": 1
+        },
+        "property": {
+            "rental": 1,
+            "many": 1,
+            "other": 1
+        },
+        "prosecutor": {
+            "federal": 1
         },
         "prostate": {
             "advanced": 2
         },
+        "protest": {
+            "anonymous": 1,
+            "peaceful": 1
+        },
+        "pulse": {
+            "still": 1
+        },
+        "pump": {
+            "forgetful": 1
+        },
         "purpose": {
             "essential": 1
         },
-        "question": {
-            "social": 2
+        "quality": {
+            "together": 1
         },
-        "questions": {
+        "quarter": {
+            "old": 1
+        },
+        "question": {
+            "social": 2,
+            "same": 1,
             "other": 1
         },
         "quoting": {
@@ -1169,103 +2799,261 @@
             "sufficient": 1
         },
         "rate": {
+            "lower": 1,
+            "affordable": 1,
             "actual": 1
+        },
+        "rating": {
+            "bad": 1
+        },
+        "raval": {
+            "contemporary": 1
+        },
+        "reader": {
+            "straight": 1
+        },
+        "reading": {
+            "hard": 1
         },
         "real": {
             "recent": 1
         },
         "reason": {
+            "strange": 1,
             "good": 1
         },
         "recall": {
             "vivid": 1
         },
-        "records": {
+        "recognition": {
+            "facial": 1
+        },
+        "record": {
+            "criminal": 1,
             "patient": 1
         },
-        "relations": {
+        "recovery": {
+            "good": 1
+        },
+        "redbrick": {
+            "beautiful": 1
+        },
+        "redwood": {
+            "famous": 1
+        },
+        "refurbishment": {
+            "other": 1
+        },
+        "regeneration": {
+            "urban": 1
+        },
+        "regulation": {
+            "rental": 1
+        },
+        "regulatory": {
+            "clear": 1
+        },
+        "reindeer": {
+            "large": 1,
+            "dried": 1
+        },
+        "relation": {
             "public": 1
         },
         "relationship": {
-            "traditional": 1
-        },
-        "relationships": {
+            "traditional": 1,
             "dysfunctional": 1,
             "complex": 1
         },
-        "remedies": {
+        "remain": {
+            "intangible": 1
+        },
+        "remedy": {
             "formal": 1
+        },
+        "reminder": {
+            "simple": 1
         },
         "remission": {
             "complete": 2
         },
+        "rental": {
+            "temporary": 1,
+            "separate": 1,
+            "illegal": 1,
+            "tourist": 1
+        },
+        "renter": {
+            "other": 1
+        },
+        "renunciation": {
+            "total": 1
+        },
+        "report": {
+            "vague": 1
+        },
         "reprieve": {
             "short": 1
         },
-        "researchers": {
+        "request": {
+            "subsequent": 1
+        },
+        "research": {
+            "federal": 1
+        },
+        "researcher": {
             "many": 1,
             "brilliant": 1
+        },
+        "resemblance": {
+            "passing": 1
+        },
+        "resident": {
+            "local": 1,
+            "new": 1,
+            "permanent": 1,
+            "many": 1
         },
         "resistance": {
             "considerable": 1
         },
+        "resolution": {
+            "vague": 1
+        },
+        "resourcethe": {
+            "desirable": 1
+        },
         "respiration": {
             "artificial": 1
         },
-        "responses": {
+        "response": {
+            "incident": 1,
             "empathic": 1
         },
-        "results": {
+        "responsibility": {
+            "largest": 1
+        },
+        "result": {
             "new": 1,
             "predictable": 1
+        },
+        "retailer": {
+            "online": 1
+        },
+        "retiree": {
+            "recent": 1
         },
         "reveal": {
             "most": 1
         },
+        "reverence": {
+            "deep": 1
+        },
         "review": {
+            "long": 1,
             "institutional": 1
         },
-        "rights": {
-            "civil": 4
+        "right": {
+            "civil": 5,
+            "inalienable": 1
         },
         "risk": {
-            "high": 2
+            "high": 3
+        },
+        "river": {
+            "frozen": 1
+        },
+        "road": {
+            "main": 1
         },
         "robert": {
             "under": 1,
             "historian": 1
         },
-        "room": {
-            "same": 1
+        "rock": {
+            "giant": 1
         },
-        "roses": {
+        "role": {
+            "other": 1
+        },
+        "roll": {
+            "complete": 1
+        },
+        "room": {
+            "spare": 5,
+            "living": 1,
+            "locker": 2,
+            "single": 1,
+            "same": 1,
+            "private": 1,
+            "free": 1
+        },
+        "rose": {
             "fictional": 1
         },
-        "rules": {
+        "rule": {
             "certain": 2
         },
         "run": {
-            "short": 1,
-            "long": 1
+            "long": 2,
+            "short": 1
         },
-        "runners": {
+        "runner": {
             "popular": 1
+        },
+        "rupture": {
+            "arterial": 1
+        },
+        "russian": {
+            "loud": 1
+        },
+        "sabbath": {
+            "digital": 1
         },
         "sadness": {
             "great": 1
+        },
+        "safari": {
+            "husky": 1
+        },
+        "salad": {
+            "green": 1
+        },
+        "sami": {
+            "real": 1
+        },
+        "saturday": {
+            "silent": 1
+        },
+        "scale": {
+            "irreparable": 1,
+            "larger": 1
+        },
+        "scandinavia": {
+            "northern": 1
+        },
+        "scandinavian": {
+            "other": 1
         },
         "scenery": {
             "same": 1
         },
         "school": {
             "high": 4,
-            "secondary": 1
+            "secondary": 2,
+            "private": 1
         },
         "science": {
             "political": 1
         },
-        "scripts": {
+        "screen": {
+            "digital": 1
+        },
+        "script": {
             "many": 1
+        },
+        "scruff": {
+            "white": 1
         },
         "scrutiny": {
             "public": 1
@@ -1273,40 +3061,74 @@
         "seat": {
             "back": 4
         },
-        "secrets": {
+        "second": {
+            "right": 1
+        },
+        "secret": {
             "innermost": 1
         },
         "section": {
-            "under": 1
+            "under": 1,
+            "transparent": 1
         },
         "security": {
-            "national": 5
+            "national": 5,
+            "environmental": 1
         },
         "seeing": {
             "all": 1
         },
+        "seem": {
+            "touristic": 1
+        },
+        "selfhood": {
+            "everyday": 1
+        },
         "selling": {
             "best": 2
         },
-        "sense": {
-            "traditional": 1
+        "sensation": {
+            "same": 1
         },
-        "settings": {
-            "social": 1,
+        "sense": {
+            "economic": 2,
+            "traditional": 2
+        },
+        "service": {
+            "overseas": 1
+        },
+        "setting": {
+            "intimate": 1,
             "natural": 1,
-            "intimate": 1
+            "social": 1
+        },
+        "sex": {
+            "same": 5
         },
         "shame": {
             "crying": 1
+        },
+        "shard": {
+            "mosaic": 1
         },
         "shawl": {
             "brown": 1
         },
         "she": {
-            "mean": 1,
+            "still": 1,
             "right": 1,
+            "true": 1,
+            "all": 1,
+            "ignorant": 1,
+            "square": 1,
+            "sorry": 1,
             "big": 1,
-            "ignorant": 1
+            "low": 1,
+            "mean": 1,
+            "bad": 1
+        },
+        "she'll": {
+            "afraid": 1
         },
         "shelf": {
             "top": 2
@@ -1314,96 +3136,189 @@
         "shirt": {
             "white": 1
         },
-        "shits": {
+        "shit": {
             "still": 2
         },
+        "shower": {
+            "celestial": 1
+        },
         "side": {
-            "other": 1,
+            "other": 5,
+            "sunny": 1,
             "wrong": 1
+        },
+        "sign": {
+            "latest": 1,
+            "classic": 1
         },
         "significance": {
             "internal": 1
         },
+        "silence": {
+            "mental": 1
+        },
         "sir": {
             "well": 1
         },
-        "sixties": {
+        "situation": {
+            "current": 1
+        },
+        "sixty": {
             "early": 1
+        },
+        "sky": {
+            "clear": 2,
+            "cloudy": 1,
+            "wide": 1
         },
         "skin": {
             "brown": 1
         },
+        "sled": {
+            "open": 1
+        },
         "smock": {
             "blue": 5
         },
-        "smokes": {
+        "smoke": {
             "free": 1
         },
+        "smoking": {
+            "new": 1
+        },
+        "smutch": {
+            "dark": 1
+        },
+        "sneaker": {
+            "blue": 1
+        },
         "snow": {
+            "fresh": 1,
             "big": 1
         },
         "snowden": {
             "against": 1
         },
+        "snowsuit": {
+            "black": 1
+        },
         "society": {
             "democratic": 1
         },
-        "solutions": {
+        "solution": {
+            "bad": 1,
             "simple": 1
         },
         "someone": {
+            "local": 1,
             "telling": 1
         },
         "something": {
+            "against": 1,
             "secret": 1
         },
         "something's": {
             "well": 1
         },
-        "sons": {
+        "song": {
+            "traditional": 1
+        },
+        "son": {
             "other": 1
         },
-        "sources": {
+        "sound": {
+            "magic": 1
+        },
+        "source": {
+            "open": 1,
             "foreign": 1
         },
-        "spaces": {
-            "sacred": 2
+        "space": {
+            "public": 5,
+            "living": 1,
+            "outer": 1,
+            "sacred": 2,
+            "social": 1
         },
-        "spectacles": {
+        "specificity": {
+            "local": 1
+        },
+        "spectacle": {
             "round": 1
+        },
+        "speed": {
+            "high": 1
+        },
+        "sphere": {
+            "magnetic": 1
+        },
+        "spillage": {
+            "minor": 1
+        },
+        "spirit": {
+            "conquering": 1
         },
         "splash": {
             "big": 1
+        },
+        "spring": {
+            "early": 1
         },
         "st": {
             "outside": 1
         },
         "staff": {
-            "medical": 1
+            "medical": 2
+        },
+        "staffer": {
+            "political": 1
         },
         "stage": {
             "specific": 1
         },
+        "stain": {
+            "red": 1
+        },
+        "stall": {
+            "next": 1
+        },
+        "stand": {
+            "even": 1
+        },
+        "standoff": {
+            "elemental": 1
+        },
+        "star": {
+            "all": 1
+        },
         "state": {
             "senior": 1,
-            "same": 1
+            "glorious": 1,
+            "same": 1,
+            "other": 2
         },
         "statement": {
+            "bigger": 1,
             "perplexing": 1
         },
-        "steps": {
+        "step": {
             "next": 1
         },
         "store": {
             "entire": 1
         },
+        "storefront": {
+            "digital": 1
+        },
         "storm": {
+            "hard": 1,
             "bigger": 1,
-            "hard": 1
+            "solar": 1
         },
         "story": {
+            "short": 2,
             "whole": 2,
-            "short": 1
+            "long": 1
         },
         "stove": {
             "cold": 1
@@ -1414,35 +3329,78 @@
         "strife": {
             "marital": 1
         },
-        "stripes": {
+        "strike": {
+            "general": 1
+        },
+        "stripe": {
             "orange": 1
+        },
+        "strip": {
+            "main": 1
+        },
+        "structure": {
+            "conical": 1
+        },
+        "struggling": {
+            "soon": 1
         },
         "student": {
             "medical": 1,
+            "other": 1,
             "many": 1,
-            "other": 1
-        },
-        "students": {
+            "foreign": 1,
             "white": 1
         },
+        "studio": {
+            "tiny": 1
+        },
         "summer": {
-            "hot": 1,
+            "free": 1,
             "past": 1,
-            "free": 1
+            "hot": 2
+        },
+        "sunday": {
+            "sunny": 1
+        },
+        "supply": {
+            "smaller": 1
+        },
+        "surface": {
+            "frozen": 1
+        },
+        "surgery": {
+            "last": 1,
+            "urgent": 1
+        },
+        "surprise": {
+            "great": 1
         },
         "surveillance": {
             "domestic": 2
         },
+        "survey": {
+            "annual": 1
+        },
         "survival": {
+            "economic": 1,
             "identical": 1
         },
-        "system": {
-            "democratic": 1
+        "swedish": {
+            "old": 1
         },
-        "systems": {
+        "system": {
+            "working": 1,
+            "democratic": 1,
+            "solar": 1,
             "technological": 2
         },
-        "takes": {
+        "table": {
+            "common": 1
+        },
+        "taiwan": {
+            "opposite": 1
+        },
+        "take": {
             "other": 1
         },
         "taking": {
@@ -1451,65 +3409,111 @@
         "tank": {
             "green": 1
         },
-        "tapes": {
+        "tape": {
+            "red": 1,
             "metal": 1
         },
         "taste": {
+            "ephemeral": 1,
+            "good": 1,
             "new": 1
+        },
+        "tax": {
+            "federal": 1
+        },
+        "tea": {
+            "free": 1
         },
         "team": {
             "underdog": 1
         },
+        "technology": {
+            "digital": 1,
+            "new": 1,
+            "optional": 1
+        },
         "teen": {
             "white": 1
+        },
+        "tenderness": {
+            "impetuous": 1
+        },
+        "tenement": {
+            "tall": 1
         },
         "tennis": {
             "former": 1
         },
         "term": {
-            "short": 2,
-            "long": 2
+            "long": 2,
+            "short": 5,
+            "tropical": 1,
+            "meticulous": 1
         },
-        "terrorists": {
+        "terrified": {
+            "understood": 1
+        },
+        "terrorist": {
             "over": 1
         },
         "the": {
             "magisterial": 1
         },
         "their": {
-            "against": 1
+            "unlist": 1,
+            "against": 2
         },
         "them": {
-            "inside": 1,
-            "beyond": 1
+            "beyond": 1,
+            "over": 1,
+            "inside": 1
+        },
+        "themselves": {
+            "advertised": 1
         },
         "there": {
+            "right": 3,
             "still": 1,
-            "rattled": 1,
-            "right": 1,
-            "all": 1
+            "all": 1,
+            "rattled": 1
         },
         "there'll": {
             "sure": 1
         },
+        "thereafter": {
+            "soon": 1
+        },
         "they": {
+            "all": 2,
             "trial": 1,
-            "secret": 1,
-            "last": 1,
+            "next": 1,
             "together": 1,
-            "all": 1,
-            "next": 1
+            "last": 1,
+            "secret": 1
         },
         "thing": {
-            "good": 1,
+            "whole": 1,
+            "new": 1,
+            "last": 2,
             "wonderful": 1,
-            "big": 1
-        },
-        "things": {
-            "good": 1,
-            "other": 1,
+            "good": 6,
+            "odd": 1,
+            "big": 1,
+            "same": 1,
+            "other": 3,
             "tangible": 1,
+            "bad": 1,
             "better": 1
+        },
+        "thinking": {
+            "silent": 1
+        },
+        "thoroughfare": {
+            "narrow": 1,
+            "pedestrian": 1
+        },
+        "thought": {
+            "irrational": 1
         },
         "threat": {
             "major": 1
@@ -1517,52 +3521,90 @@
         "tie": {
             "strong": 1
         },
-        "ties": {
+        "ty": {
             "weak": 3
         },
-        "time": {
-            "same": 2,
-            "next": 1,
-            "long": 1,
-            "little": 1,
-            "full": 1,
-            "hard": 1
+        "tim": {
+            "over": 1
         },
-        "times": {
+        "time": {
+            "hard": 2,
+            "long": 2,
+            "same": 3,
+            "little": 2,
+            "last": 1,
+            "full": 2,
+            "next": 1,
+            "over": 1,
+            "specific": 1,
+            "many": 1,
             "different": 1
         },
-        "tits": {
+        "tit": {
             "big": 1
+        },
+        "today": {
+            "powerful": 1
         },
         "tomorrow": {
             "back": 1
         },
-        "tools": {
+        "tool": {
+            "online": 1,
             "new": 1
         },
-        "toughs": {
+        "tough": {
             "white": 1
         },
+        "tourism": {
+            "over": 1
+        },
+        "tourist": {
+            "cold": 1
+        },
         "town": {
+            "old": 1,
             "little": 1
+        },
+        "track": {
+            "sedate": 1
+        },
+        "traffic": {
+            "tourist": 1
         },
         "trail": {
             "digital": 1
         },
+        "trainer": {
+            "personal": 1
+        },
+        "transaction": {
+            "all": 1,
+            "secure": 1
+        },
+        "traveller": {
+            "adventurous": 1,
+            "youthful": 1
+        },
         "treatment": {
             "initial": 1,
-            "experimental": 1
-        },
-        "treatments": {
+            "urgent": 1,
+            "experimental": 1,
             "current": 1
         },
-        "trials": {
+        "tree": {
+            "other": 1
+        },
+        "trial": {
             "clinical": 1
         },
-        "tries": {
+        "try": {
             "leaker": 1
         },
-        "troops": {
+        "tristan": {
+            "psychology": 1
+        },
+        "troop": {
             "additional": 1
         },
         "trouble": {
@@ -1571,16 +3613,31 @@
         "trusdale's": {
             "past": 1
         },
+        "truth": {
+            "official": 1
+        },
+        "tumble": {
+            "slow": 1
+        },
         "tumor": {
+            "solid": 2,
             "typical": 1,
-            "solid": 1,
             "different": 1
         },
-        "tumors": {
-            "solid": 1
-        },
         "turn": {
+            "philosophical": 1,
             "unexpected": 1
+        },
+        "tusk": {
+            "done": 1,
+            "agnostic": 1,
+            "right": 1
+        },
+        "tweak": {
+            "minor": 1
+        },
+        "tweet": {
+            "stupid": 1
         },
         "twitter": {
             "called": 1
@@ -1588,11 +3645,21 @@
         "type": {
             "certain": 1
         },
-        "understanding": {
-            "common": 1,
-            "innate": 1
+        "unaware": {
+            "next": 1
         },
-        "unloads": {
+        "uncompromising": {
+            "tendentious": 1
+        },
+        "understanding": {
+            "innate": 1,
+            "mutual": 1,
+            "common": 1
+        },
+        "university": {
+            "oldest": 1
+        },
+        "unload": {
             "oncology": 1
         },
         "unpaid": {
@@ -1604,12 +3671,40 @@
         "uptick": {
             "recent": 1
         },
+        "us": {
+            "telling": 1,
+            "above": 1
+        },
         "use": {
+            "compulsive": 1,
+            "technology": 2,
+            "good": 1,
             "general": 1,
-            "good": 1
+            "daily": 1
+        },
+        "vacation": {
+            "cool": 1
+        },
+        "value": {
+            "high": 2
+        },
+        "van": {
+            "black": 1
         },
         "variety": {
+            "wide": 1,
             "dizzying": 1
+        },
+        "velocity": {
+            "high": 1
+        },
+        "verification": {
+            "biometric": 1
+        },
+        "version": {
+            "little": 1,
+            "grittier": 1,
+            "final": 2
         },
         "vietnam": {
             "secret": 1
@@ -1617,24 +3712,94 @@
         "viewing": {
             "against": 1
         },
+        "village": {
+            "small": 1
+        },
         "vince": {
             "well": 1
         },
         "violation": {
             "strategic": 1
         },
-        "voters": {
+        "violence": {
+            "political": 1
+        },
+        "vision": {
+            "peripheral": 1,
+            "heavenly": 1
+        },
+        "visitor": {
+            "many": 2,
+            "new": 1,
+            "young": 1
+        },
+        "voice": {
+            "casual": 1,
+            "low": 1,
+            "new": 1
+        },
+        "voter": {
+            "high": 1,
+            "overseas": 1,
             "black": 1
+        },
+        "voting": {
+            "early": 1,
+            "electronic": 1
+        },
+        "vulnerability": {
+            "potential": 1
+        },
+        "wage": {
+            "minimum": 1
         },
         "wait": {
             "even": 1
         },
-        "ways": {
+        "walk": {
+            "longer": 1
+        },
+        "wardrobe": {
+            "antique": 1
+        },
+        "warming": {
+            "global": 1
+        },
+        "warmth": {
+            "cozy": 1
+        },
+        "washington": {
+            "black": 1
+        },
+        "watch": {
+            "stylish": 1,
+            "basic": 1,
+            "careful": 1
+        },
+        "wave": {
+            "current": 1
+        },
+        "way": {
+            "other": 1,
             "many": 1
         },
         "we": {
-            "vulnerable": 1,
-            "together": 1
+            "together": 1,
+            "accident": 1,
+            "vulnerable": 1
+        },
+        "weather": {
+            "good": 1,
+            "best": 1
+        },
+        "web": {
+            "vast": 1
+        },
+        "week": {
+            "whole": 1
+        },
+        "weekend": {
+            "many": 1
         },
         "weeping": {
             "open": 1
@@ -1645,11 +3810,41 @@
         "west": {
             "far": 1
         },
+        "whale": {
+            "blue": 1
+        },
         "what": {
             "back": 1
         },
         "whistle": {
             "modern": 1
+        },
+        "whistling": {
+            "elaborate": 1
+        },
+        "wholesaler": {
+            "global": 1
+        },
+        "wi": {
+            "free": 1
+        },
+        "wilderness": {
+            "frozen": 1
+        },
+        "will": {
+            "moderate": 1
+        },
+        "willowy": {
+            "blond": 1,
+            "tall": 1
+        },
+        "wind": {
+            "cutting": 1,
+            "terrestrial": 1,
+            "solar": 2
+        },
+        "wing": {
+            "left": 1
         },
         "winter": {
             "entire": 1
@@ -1658,26 +3853,45 @@
             "conventional": 1
         },
         "woman": {
-            "dead": 1,
             "fat": 6,
+            "blond": 1,
+            "dead": 1,
             "young": 5,
+            "old": 1,
             "black": 1,
-            "old": 1
-        },
-        "women": {
+            "strong": 1,
             "white": 1
         },
-        "words": {
-            "other": 1
+        "wonder": {
+            "natural": 1
+        },
+        "wood": {
+            "dark": 1
+        },
+        "word": {
+            "right": 1,
+            "funny": 1,
+            "half": 4,
+            "other": 2
         },
         "workaround": {
             "informal": 1
         },
-        "works": {
+        "worker": {
+            "foreign": 1
+        },
+        "work": {
             "technology": 1
         },
         "world": {
-            "digital": 2
+            "real": 1,
+            "natural": 2,
+            "online": 1,
+            "digital": 2,
+            "physical": 1
+        },
+        "worry": {
+            "constant": 1
         },
         "would": {
             "leaker": 1
@@ -1686,25 +3900,35 @@
             "political": 1
         },
         "year": {
-            "same": 1
-        },
-        "years": {
-            "many": 2,
-            "recent": 1
+            "same": 1,
+            "past": 1,
+            "final": 1,
+            "many": 3,
+            "recent": 2
         },
         "yemen": {
             "against": 1
         },
         "you": {
-            "quiet": 1,
+            "likely": 2,
+            "welcome": 1,
+            "telling": 1,
             "well": 1,
-            "likely": 1
+            "quiet": 1
+        },
+        "you'll": {
+            "all": 1
         },
         "you're": {
             "well": 1
         },
         "your": {
-            "under": 1
+            "under": 2,
+            "comfortable": 1,
+            "over": 1
+        },
+        "zone": {
+            "cultural": 2
         }
     },
     "verb": {
@@ -1714,14 +3938,40 @@
         "accompanies": {
             "typically": 1
         },
+        "accounted": {
+            "certainly": 1
+        },
         "added": {
+            "then": 1,
             "also": 1
+        },
+        "adopting": {
+            "legally": 1
+        },
+        "affected": {
+            "particularly": 1
+        },
+        "affecting": {
+            "clearly": 1
+        },
+        "afford": {
+            "longer": 1
+        },
+        "aligns": {
+            "elegantly": 1
         },
         "amount": {
             "endless": 1
         },
+        "amplifies": {
+            "literally": 1
+        },
         "announced": {
+            "previously": 1,
             "abruptly": 1
+        },
+        "apartment": {
+            "such": 1
         },
         "appear": {
             "again": 1
@@ -1734,14 +3984,34 @@
         },
         "are": {
             "typically": 1,
-            "rarely": 1
+            "rarely": 1,
+            "too": 1,
+            "thus": 1
+        },
+        "ascribes": {
+            "sometimes": 1
         },
         "asked": {
             "secretly": 1
         },
         "assume": {
-            "immediately": 1,
-            "naively": 1
+            "naively": 1,
+            "immediately": 1
+        },
+        "assumes": {
+            "eventually": 1
+        },
+        "assuming": {
+            "always": 1
+        },
+        "attempt": {
+            "largely": 1
+        },
+        "avoided": {
+            "merely": 1
+        },
+        "awakened": {
+            "also": 1
         },
         "backward": {
             "only": 1
@@ -1755,26 +4025,113 @@
         "be": {
             "always": 1,
             "only": 1,
+            "easily": 1,
+            "all": 1,
+            "actually": 1,
+            "hardly": 1,
+            "sometimes": 1,
+            "still": 1,
+            "longer": 1,
             "rarely": 1,
-            "actually": 1
+            "then": 1
+        },
+        "bear": {
+            "merely": 1,
+            "longer": 1
+        },
+        "beating": {
+            "very": 1
         },
         "been": {
-            "always": 1
+            "recently": 3,
+            "always": 1,
+            "often": 1,
+            "actually": 1
+        },
+        "began": {
+            "then": 2
+        },
+        "begun": {
+            "suddenly": 1
+        },
+        "behavior": {
+            "good": 1
+        },
+        "being": {
+            "constantly": 1,
+            "currently": 1,
+            "truly": 1
+        },
+        "believe": {
+            "really": 1
         },
         "belong": {
             "really": 1
         },
+        "benign": {
+            "entirely": 1
+        },
+        "bleached": {
+            "otherworldly": 1
+        },
+        "blocks": {
+            "very": 1
+        },
+        "boarded": {
+            "meekly": 1
+        },
+        "booked": {
+            "often": 1
+        },
+        "boosted": {
+            "further": 1
+        },
+        "breathing": {
+            "all": 1
+        },
         "bring": {
-            "quite": 1,
-            "then": 1
+            "then": 1,
+            "quite": 1
+        },
+        "budget": {
+            "such": 1
         },
         "bugs": {
             "way": 1
         },
+        "built": {
+            "more": 1,
+            "ever": 1
+        },
+        "buying": {
+            "frantically": 1
+        },
+        "caffeinated": {
+            "highly": 1
+        },
         "came": {
             "just": 1,
-            "then": 1,
-            "sometimes": 1
+            "suddenly": 1,
+            "sometimes": 1,
+            "then": 1
+        },
+        "cancelled": {
+            "just": 1
+        },
+        "capture": {
+            "continually": 1
+        },
+        "caregiving": {
+            "instead": 1
+        },
+        "carried": {
+            "too": 1
+        },
+        "catch": {
+            "hardly": 1
+        },
+        "cater": {
+            "to": 1
         },
         "cause": {
             "hopeless": 1
@@ -1785,8 +4142,21 @@
         "challenged": {
             "just": 1
         },
+        "challenging": {
+            "fruitlessly": 1
+        },
         "change": {
-            "totally": 1
+            "totally": 1,
+            "of": 1
+        },
+        "characterized": {
+            "aptly": 1
+        },
+        "checking": {
+            "compulsively": 1
+        },
+        "choose": {
+            "alone": 1
         },
         "chose": {
             "instead": 1
@@ -1794,8 +4164,20 @@
         "cleared": {
             "just": 1
         },
+        "clogging": {
+            "currently": 1
+        },
         "close": {
             "too": 1
+        },
+        "closed": {
+            "already": 1
+        },
+        "coincided": {
+            "also": 1
+        },
+        "colonnaded": {
+            "handsomely": 1
         },
         "come": {
             "ultimately": 1,
@@ -1803,14 +4185,60 @@
             "repeatedly": 1,
             "eventually": 1
         },
+        "comes": {
+            "that": 1
+        },
+        "commitment": {
+            "ruthless": 1
+        },
         "committed": {
             "highly": 1
         },
         "compared": {
             "formally": 1
         },
+        "compensated": {
+            "nebulously": 1
+        },
+        "concern": {
+            "directly": 1
+        },
+        "concerned": {
+            "also": 1
+        },
         "conflict": {
             "sometimes": 1
+        },
+        "considerate": {
+            "more": 1
+        },
+        "considered": {
+            "also": 1,
+            "carefully": 1
+        },
+        "consisted": {
+            "often": 1
+        },
+        "constituted": {
+            "currently": 1
+        },
+        "constructed": {
+            "specially": 1
+        },
+        "consumed": {
+            "entirely": 1
+        },
+        "continue": {
+            "presumably": 1
+        },
+        "contracted": {
+            "then": 1
+        },
+        "contributed": {
+            "also": 1
+        },
+        "control": {
+            "more": 1
         },
         "conversation": {
             "toward": 1
@@ -1818,41 +4246,97 @@
         "copies": {
             "surreptitiously": 1
         },
+        "cosmopolitan": {
+            "generally": 1
+        },
+        "could": {
+            "really": 1
+        },
+        "couldn't": {
+            "just": 1
+        },
+        "counted": {
+            "really": 1
+        },
+        "cover": {
+            "often": 1
+        },
+        "covered": {
+            "practically": 1
+        },
+        "crawling": {
+            "almost": 1
+        },
+        "criticized": {
+            "publicly": 1
+        },
         "crying": {
             "still": 1
         },
         "curated": {
             "carefully": 1
         },
+        "curtailed": {
+            "actively": 1
+        },
         "cut": {
+            "still": 1,
             "also": 1
         },
         "dash": {
             "just": 1
         },
+        "dazzling": {
+            "too": 1
+        },
+        "debauched": {
+            "tastefully": 1
+        },
         "defined": {
             "once": 1
+        },
+        "deleted": {
+            "already": 1
+        },
+        "delivered": {
+            "finally": 1
+        },
+        "demand": {
+            "often": 1
         },
         "described": {
             "also": 1
         },
         "deserted": {
-            "nearly": 1,
-            "almost": 1
+            "almost": 1,
+            "nearly": 1
+        },
+        "designed": {
+            "ostensibly": 1
+        },
+        "developed": {
+            "also": 1
         },
         "did": {
+            "recently": 1,
+            "famously": 1,
+            "really": 1,
             "ultimately": 1,
             "so": 1
         },
         "didn't": {
-            "just": 1,
-            "still": 1
+            "still": 1,
+            "just": 1
         },
         "disappeared": {
-            "but": 1
+            "but": 1,
+            "recently": 1
         },
         "disappointing": {
             "ultimately": 1
+        },
+        "disclosing": {
+            "constantly": 1
         },
         "dispenses": {
             "easily": 1
@@ -1865,31 +4349,114 @@
             "always": 1
         },
         "doesn't": {
+            "still": 1,
             "often": 1
+        },
+        "dogsleds": {
+            "then": 1
+        },
+        "dopamine": {
+            "useless": 1
+        },
+        "dropping": {
+            "still": 1
+        },
+        "e": {
+            "just": 1
+        },
+        "earn": {
+            "still": 1
+        },
+        "end": {
+            "very": 1
+        },
+        "ends": {
+            "only": 1
         },
         "enforce": {
             "occasionally": 1
         },
+        "enhanced": {
+            "technologically": 1
+        },
+        "enjoy": {
+            "just": 1,
+            "really": 1
+        },
+        "enjoying": {
+            "alone": 1
+        },
+        "entered": {
+            "finally": 1
+        },
         "enthralled": {
             "so": 1
+        },
+        "equipped": {
+            "minimally": 1
+        },
+        "evolved": {
+            "more": 1
+        },
+        "exciting": {
+            "tremendously": 1
+        },
+        "experience": {
+            "often": 1
+        },
+        "experienced": {
+            "ever": 1
+        },
+        "explode": {
+            "immediately": 1
+        },
+        "exposed": {
+            "way": 1
         },
         "failed": {
             "all": 1
         },
+        "familiar": {
+            "sickeningly": 1,
+            "increasingly": 1
+        },
+        "fatigued": {
+            "so": 1
+        },
+        "fazed": {
+            "remotely": 1
+        },
         "feel": {
-            "still": 1
+            "still": 2
+        },
+        "feels": {
+            "suddenly": 1
         },
         "feigning": {
             "just": 1
         },
         "fell": {
-            "just": 2
+            "just": 2,
+            "always": 1
         },
         "felt": {
-            "way": 1
+            "hardly": 1,
+            "way": 1,
+            "immediately": 1
         },
         "filling": {
+            "also": 1,
             "almost": 1
+        },
+        "finished": {
+            "just": 2,
+            "quite": 1
+        },
+        "finland": {
+            "toward": 1
+        },
+        "fixated": {
+            "increasingly": 1
         },
         "flashing": {
             "still": 1
@@ -1897,59 +4464,109 @@
         "followed": {
             "simply": 1
         },
+        "forgetting": {
+            "again": 1
+        },
+        "found": {
+            "also": 2
+        },
+        "gave": {
+            "rarely": 1
+        },
         "get": {
             "all": 1
+        },
+        "gives": {
+            "really": 1
         },
         "go": {
             "then": 1
         },
         "going": {
+            "eventually": 1,
+            "least": 1,
             "also": 1
         },
         "got": {
-            "finally": 1
+            "finally": 1,
+            "just": 2,
+            "always": 1
         },
-        "greyhounds": {
+        "gratitude": {
+            "endless": 1
+        },
+        "greyhound": {
             "like": 1
         },
         "had": {
+            "instead": 1,
             "also": 1,
-            "still": 1
+            "often": 1,
+            "longer": 1,
+            "already": 1,
+            "still": 2,
+            "just": 1
         },
         "hang": {
-            "still": 1,
-            "perhaps": 1
+            "perhaps": 1,
+            "still": 1
         },
         "happening": {
             "all": 1
         },
         "has": {
+            "longer": 2,
             "too": 1,
-            "meanwhile": 1,
-            "really": 1
+            "really": 1,
+            "often": 1,
+            "meanwhile": 1
         },
         "hates": {
+            "secretly": 1,
             "of": 1
         },
         "have": {
-            "all": 1,
-            "probably": 1,
-            "ever": 1,
             "already": 1,
-            "really": 1
+            "ever": 1,
+            "generally": 1,
+            "all": 1,
+            "just": 1,
+            "really": 1,
+            "probably": 1
         },
         "having": {
             "still": 1
         },
+        "he": {
+            "maybe": 1
+        },
         "hear": {
-            "really": 1,
-            "ever": 1
+            "barely": 1,
+            "ever": 1,
+            "really": 1
+        },
+        "heard": {
+            "also": 1
         },
         "held": {
+            "briefly": 1,
             "closely": 2
+        },
+        "his": {
+            "apart": 1
+        },
+        "home": {
+            "way": 1
+        },
+        "hope": {
+            "all": 2
         },
         "housed": {
             "mostly": 1
+        },
+        "i": {
+            "entirely": 1,
+            "often": 1
         },
         "ideas": {
             "more": 1
@@ -1960,79 +4577,177 @@
         "if": {
             "curtly": 1
         },
+        "images": {
+            "such": 1
+        },
+        "imagining": {
+            "possibly": 1
+        },
         "implemented": {
             "properly": 1
         },
+        "increasing": {
+            "constantly": 1
+        },
         "informed": {
+            "loudly": 1,
             "minimally": 1
+        },
+        "installed": {
+            "temporarily": 1
+        },
+        "interested": {
+            "only": 1
+        },
+        "invited": {
+            "also": 1
         },
         "involved": {
             "personally": 1
         },
         "is": {
-            "too": 1,
-            "apart": 1
+            "really": 1,
+            "apart": 1,
+            "alone": 1,
+            "too": 1
+        },
+        "isn't": {
+            "somehow": 1
+        },
+        "it": {
+            "toward": 1,
+            "once": 1
         },
         "keep": {
-            "just": 1
+            "just": 2
+        },
+        "knew": {
+            "just": 3
         },
         "know": {
+            "only": 1,
             "invariably": 1,
-            "only": 1
+            "always": 3
+        },
+        "known": {
+            "always": 1,
+            "also": 2
         },
         "knows": {
             "then": 1
         },
         "laid": {
-            "probably": 1,
-            "just": 1
+            "just": 1,
+            "probably": 1
         },
         "leak": {
             "just": 1
         },
+        "learned": {
+            "already": 2,
+            "recently": 1
+        },
         "let": {
-            "completely": 1
+            "completely": 1,
+            "deeply": 1
+        },
+        "let's": {
+            "sometimes": 1
         },
         "letters": {
+            "simply": 1
+        },
+        "letting": {
+            "simply": 1
+        },
+        "lie": {
             "simply": 1
         },
         "life": {
             "potentially": 1
         },
+        "liked": {
+            "longer": 1
+        },
+        "limit": {
+            "surely": 1
+        },
         "limping": {
             "of": 1
+        },
+        "listening": {
+            "longer": 1
+        },
+        "located": {
+            "inconveniently": 1
         },
         "locked": {
             "rarely": 1
         },
+        "look": {
+            "just": 1
+        },
         "looking": {
-            "still": 1
+            "still": 2,
+            "often": 1
+        },
+        "looks": {
+            "often": 1
+        },
+        "loop": {
+            "endless": 1
         },
         "lose": {
             "quickly": 1
         },
+        "lost": {
+            "nearly": 1
+        },
+        "made": {
+            "barely": 1,
+            "longer": 1
+        },
         "make": {
-            "of": 1
+            "of": 1,
+            "always": 1
         },
         "makes": {
-            "necessarily": 1,
-            "indiscriminately": 1
+            "theoretically": 1,
+            "indiscriminately": 1,
+            "often": 1,
+            "necessarily": 1
         },
         "managing": {
             "efficiently": 1
         },
+        "marry": {
+            "legally": 1
+        },
+        "massing": {
+            "allegedly": 1
+        },
         "matching": {
             "seamlessly": 1
         },
-        "materials": {
+        "material": {
             "course": 1
         },
         "means": {
-            "simply": 1,
-            "inevitably": 1
+            "inevitably": 1,
+            "simply": 1
         },
         "met": {
+            "then": 1,
             "routinely": 1
+        },
+        "middle": {
+            "more": 1
+        },
+        "mind": {
+            "once": 1
+        },
+        "mirrors": {
+            "closely": 1
         },
         "missed": {
             "possibly": 1
@@ -2049,20 +4764,61 @@
         "mopps": {
             "more": 1
         },
+        "must": {
+            "often": 1
+        },
         "muttering": {
             "ominously": 1
         },
         "needed": {
             "too": 1
         },
+        "nicknamed": {
+            "lovingly": 1
+        },
+        "nights": {
+            "more": 1
+        },
         "nixon's": {
             "then": 1
         },
+        "nodes": {
+            "placeless": 1
+        },
+        "nonsense": {
+            "instead": 1,
+            "that": 1
+        },
+        "noticed": {
+            "only": 1
+        },
+        "noting": {
+            "possibly": 1
+        },
+        "observe": {
+            "simultaneously": 1
+        },
+        "occupied": {
+            "formerly": 1
+        },
         "opened": {
+            "also": 1,
             "painlessly": 1
+        },
+        "operated": {
+            "independently": 1
+        },
+        "opposed": {
+            "adamantly": 1
         },
         "others": {
             "instantly": 1
+        },
+        "outlined": {
+            "roughly": 1
+        },
+        "owners": {
+            "lately": 1
         },
         "passed": {
             "ultimately": 1
@@ -2073,17 +4829,65 @@
         "paying": {
             "then": 1
         },
+        "peak": {
+            "hardly": 1
+        },
+        "pee": {
+            "always": 1
+        },
+        "perceived": {
+            "just": 1
+        },
+        "phone": {
+            "mindless": 1
+        },
         "pleased": {
             "secretly": 1
+        },
+        "polarized": {
+            "completely": 1
+        },
+        "polished": {
+            "quite": 1
+        },
+        "populated": {
+            "densely": 2
         },
         "position": {
             "often": 1
         },
+        "practicing": {
+            "merely": 1
+        },
+        "praying": {
+            "actually": 1
+        },
+        "predicted": {
+            "widely": 1
+        },
+        "preparing": {
+            "just": 1
+        },
         "present": {
             "fully": 2
         },
+        "produced": {
+            "obligingly": 1
+        },
+        "progress": {
+            "of": 1
+        },
+        "progressed": {
+            "eventually": 1
+        },
         "promising": {
             "incredibly": 1
+        },
+        "promoting": {
+            "also": 1
+        },
+        "properties": {
+            "such": 1
         },
         "proved": {
             "already": 1
@@ -2098,16 +4902,36 @@
             "deliriously": 1
         },
         "put": {
-            "simply": 1
+            "barely": 1,
+            "simply": 1,
+            "course": 1
+        },
+        "putting": {
+            "like": 1
         },
         "radicalized": {
             "more": 1
         },
+        "raises": {
+            "supposedly": 1
+        },
         "ran": {
             "then": 1
         },
+        "read": {
+            "already": 1
+        },
         "reclaiming": {
             "toward": 1
+        },
+        "recognize": {
+            "longer": 1
+        },
+        "recognized": {
+            "internationally": 1
+        },
+        "recommended": {
+            "then": 1
         },
         "recovered": {
             "fully": 1
@@ -2115,14 +4939,53 @@
         "redesign": {
             "also": 1
         },
+        "refusing": {
+            "then": 1
+        },
+        "regretting": {
+            "slightly": 1
+        },
+        "regulates": {
+            "already": 1
+        },
+        "reintroduces": {
+            "slowly": 1
+        },
+        "rejects": {
+            "tacitly": 1
+        },
         "release": {
             "then": 1
+        },
+        "remember": {
+            "longer": 1,
+            "vividly": 1
         },
         "remind": {
             "usefully": 1
         },
+        "reminded": {
+            "continually": 1,
+            "also": 1,
+            "politely": 1
+        },
+        "renting": {
+            "illegally": 1
+        },
         "requires": {
             "sometimes": 1
+        },
+        "retain": {
+            "still": 1
+        },
+        "reverberate": {
+            "nonetheless": 1
+        },
+        "risen": {
+            "also": 1
+        },
+        "roles": {
+            "only": 1
         },
         "rolls": {
             "just": 1
@@ -2130,28 +4993,64 @@
         "rooted": {
             "deeply": 1
         },
+        "rotating": {
+            "rapidly": 1
+        },
         "rules": {
             "only": 1
         },
         "run": {
             "probably": 1,
             "rather": 1,
-            "certainly": 1,
-            "routinely": 1
+            "routinely": 1,
+            "certainly": 1
         },
         "said": {
-            "once": 2,
-            "just": 1,
-            "reportedly": 1
+            "just": 2,
+            "only": 1,
+            "reportedly": 1,
+            "once": 2
+        },
+        "sanctioned": {
+            "publicly": 1
+        },
+        "sat": {
+            "actually": 1
         },
         "say": {
             "sometimes": 1
+        },
+        "says": {
+            "finally": 1
+        },
+        "scatter": {
+            "then": 1
+        },
+        "screamed": {
+            "actually": 1
         },
         "scrolled": {
             "simply": 1
         },
         "see": {
+            "just": 1,
+            "still": 1,
+            "actually": 1
+        },
+        "seemed": {
+            "all": 1,
+            "always": 1,
             "still": 1
+        },
+        "seems": {
+            "just": 1
+        },
+        "seen": {
+            "anywhere": 1,
+            "also": 1
+        },
+        "self": {
+            "increasingly": 1
         },
         "sense": {
             "more": 1
@@ -2162,11 +5061,45 @@
         "sent": {
             "immediately": 1
         },
+        "shaken": {
+            "badly": 1
+        },
+        "sharpened": {
+            "automatically": 1
+        },
         "should": {
             "still": 1
         },
+        "silence": {
+            "more": 1
+        },
+        "sliced": {
+            "neatly": 1
+        },
+        "slipped": {
+            "suddenly": 1
+        },
+        "smiles": {
+            "then": 1
+        },
+        "smiling": {
+            "always": 1
+        },
+        "snowmobile": {
+            "just": 1
+        },
+        "sold": {
+            "successfully": 1,
+            "just": 1
+        },
         "sonia": {
             "originally": 1
+        },
+        "sorts": {
+            "all": 2
+        },
+        "sparkling": {
+            "still": 1
         },
         "spent": {
             "once": 1
@@ -2174,8 +5107,14 @@
         "spoke": {
             "also": 1
         },
+        "spread": {
+            "recently": 1
+        },
         "spreads": {
             "steadily": 1
+        },
+        "staged": {
+            "carefully": 1
         },
         "stalemate": {
             "hopeless": 1
@@ -2186,8 +5125,38 @@
         "standards": {
             "such": 1
         },
+        "starts": {
+            "quickly": 1
+        },
+        "stashed": {
+            "already": 1
+        },
+        "state": {
+            "all": 1
+        },
+        "staying": {
+            "lot": 1
+        },
+        "stealing": {
+            "perhaps": 1
+        },
+        "stood": {
+            "just": 2
+        },
         "stop": {
             "just": 1
+        },
+        "stopped": {
+            "almost": 1
+        },
+        "stowed": {
+            "safely": 1
+        },
+        "streaming": {
+            "all": 1
+        },
+        "striking": {
+            "more": 1
         },
         "stubborn": {
             "so": 1
@@ -2195,42 +5164,111 @@
         "stumbling": {
             "then": 1
         },
+        "stylized": {
+            "highly": 1
+        },
         "succumbs": {
             "finally": 1
+        },
+        "suggested": {
+            "flippantly": 1
         },
         "surprised": {
             "hardly": 1
         },
+        "surprises": {
+            "more": 1
+        },
         "surrounding": {
             "all": 1
+        },
+        "swamped": {
+            "so": 1
         },
         "take": {
             "only": 1
         },
+        "taking": {
+            "still": 1
+        },
+        "talking": {
+            "also": 1,
+            "already": 1,
+            "necessarily": 1
+        },
+        "tanning": {
+            "somnolently": 1
+        },
         "tell": {
             "always": 1
         },
+        "tempting": {
+            "more": 1
+        },
+        "tentacles": {
+            "several": 1
+        },
+        "text": {
+            "constantly": 1
+        },
+        "they": {
+            "again": 1
+        },
+        "thing": {
+            "only": 1
+        },
+        "thinking": {
+            "just": 1,
+            "again": 1,
+            "also": 1
+        },
         "thinks": {
-            "sometimes": 1,
-            "then": 1
+            "then": 1,
+            "sometimes": 1
         },
         "thought": {
+            "ever": 1,
             "immediately": 1
         },
+        "toast": {
+            "just": 1
+        },
         "took": {
-            "eventually": 1
+            "eventually": 2,
+            "laboriously": 1
         },
         "tools": {
             "more": 1
         },
+        "toppled": {
+            "almost": 1
+        },
         "topps": {
+            "more": 1
+        },
+        "tourists": {
+            "only": 1,
             "more": 1
         },
         "town": {
             "toward": 1
         },
+        "transmitted": {
+            "only": 1
+        },
+        "treats": {
+            "generally": 1
+        },
         "tried": {
             "then": 1
+        },
+        "try": {
+            "so": 1,
+            "just": 1
+        },
+        "trying": {
+            "initially": 1,
+            "fitfully": 1
         },
         "tucked": {
             "still": 1
@@ -2238,25 +5276,74 @@
         "turn": {
             "then": 1
         },
+        "turning": {
+            "mostly": 1
+        },
+        "unenticing": {
+            "deeply": 1
+        },
         "unsettling": {
             "deeply": 1
+        },
+        "unsmiling": {
+            "carefully": 1
+        },
+        "unsure": {
+            "deeply": 1
+        },
+        "uses": {
+            "also": 1
+        },
+        "using": {
+            "rather": 1
+        },
+        "valuable": {
+            "more": 1
+        },
+        "valued": {
+            "recently": 1
+        },
+        "vender": {
+            "totally": 1
         },
         "viewed": {
             "widely": 1
         },
+        "visited": {
+            "rarely": 1
+        },
         "want": {
-            "often": 1,
-            "really": 2
+            "really": 2,
+            "just": 1,
+            "often": 1
         },
         "was": {
+            "more": 1,
             "only": 1,
-            "more": 1
+            "away": 1,
+            "ever": 1,
+            "instead": 1
         },
         "waved": {
             "frantically": 1
         },
+        "wear": {
+            "always": 1
+        },
+        "went": {
+            "all": 1
+        },
         "were": {
             "similarly": 1
+        },
+        "whisk": {
+            "also": 1
+        },
+        "will": {
+            "literally": 1
+        },
+        "working": {
+            "formerly": 1
         },
         "works": {
             "only": 1
@@ -2264,9 +5351,12 @@
         "worn": {
             "so": 1
         },
+        "write": {
+            "also": 1
+        },
         "you": {
-            "just": 1,
             "bless": 1,
+            "just": 1,
             "once": 1
         }
     }

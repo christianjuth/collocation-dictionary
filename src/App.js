@@ -73,8 +73,10 @@ class App extends Component {
 
   render() {
 
-    let results = this.state.dictionary
-    .filter(obj => obj.word.indexOf(this.state.search) >= 0)
+    let search = this.state.search,
+        results = this.state.dictionary
+    .filter(obj => obj.word.indexOf(search.replace(/s$/,'')) >= 0)
+    .sort(obj => search != '' && obj.word.indexOf(search) == 0 ? -1 : 0)
     .map(obj => obj.div)
     .slice(0,50);
 

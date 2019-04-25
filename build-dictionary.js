@@ -32,6 +32,12 @@ fs.readdir('./texts', function(err, files) {
 			return a > b ? 1 : -1;
 		})
 		.forEach(wordPair => {
+			if(wordPair.indexOf(' ') == -1) return;
+
+			let convert = nlp(wordPair);
+			convert.nouns().toSingular();
+			wordPair = convert.out();
+
 			let split = wordPair.split(' '),
 				descriptor = split[0].toLowerCase(),
 				noun = split[1].toLowerCase();
