@@ -13,15 +13,15 @@ fs.readdir('./texts', function(err, files) {
 		return fs.readFileSync('./texts/' + filename, 'utf8');
     })
     .join('\n');
+    fs.writeFileSync('public/texts.txt', texts);
 
     
 
     let doc = nlp(texts),
-    	dictionary = {},
-    	descriptorCount = 0;
+    	dictionary = {};
 
-    let extract = (matchString, type) => {
-    	let matches = doc.match(matchString).out('array').filter(str => str.indexOf('-') == -1);
+    let extract = (matchString, not, type) => {
+    	let matches = doc.match(matchString).not(not).out('array').filter(str => str.indexOf('-') == -1);
 
     	if(dictionary[type] == null) dictionary[type] = {};
 	
@@ -36,19 +36,32 @@ fs.readdir('./texts', function(err, files) {
 
 			let convert = nlp(wordPair);
 			convert.nouns().toSingular();
+			convert.contractions().expand();
 			wordPair = convert.out();
 
 			let split = wordPair.split(' '),
-				descriptor = split[0].toLowerCase(),
-				noun = split[1].toLowerCase();
+				descriptor = split.shift().toLowerCase(),
+				noun = split.join(' ').toLowerCase();
+
+			if(!/^[a-z]+$/.test(noun)) return;
 
 			if(dictionary[type][noun] == null)
 				dictionary[type][noun] = [descriptor]
 			else
 				dictionary[type][noun].push(descriptor);
 		});
+    }
 
-		Object.keys(dictionary[type])
+
+    extract('#Adjective #Noun', '', 'noun');
+    extract('#Value #Noun', '#Cardinal', 'noun');
+    // extract('#Adjective #Adjective', '', 'adjective');
+    extract('#Adverb #Verb', '', 'verb');
+
+
+    let descriptorCount = 0;
+    Object.keys(dictionary).forEach(type => {
+    	Object.keys(dictionary[type])
 		.forEach((word) => {
 			let descriptors = dictionary[type][word];
 			let raking = {};
@@ -62,15 +75,10 @@ fs.readdir('./texts', function(err, files) {
 			});
 			dictionary[type][word] = raking;
 		});
-
 		console.log(`${Object.keys(dictionary[type]).length} ${type}s`);
-    }
-
-
-    extract('#Adjective #Noun', 'noun');
-    // extract('#Adjective #Adjective', 'adjective');
-    extract('#Adverb #Verb', 'verb');
-
+    });
     console.log(`${descriptorCount} descriptors\n`);
+
+
 	fs.writeFileSync('src/dictionary.json', JSON.stringify(dictionary, null, 4));
 });
